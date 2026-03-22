@@ -62,7 +62,7 @@ hash = "86f963b7758c48b20b5570e94c3161cfe90eb2d5e5fb5113ca68d1544d89cc67"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "9426bc35b731d07ba09bbe45b693befdba09881dcf4b57d6e420c62c40d6d83f"
+hash = "ba5918cbad28429e1b85250c5f29adabcb084633f3d487391c0a063887d254a1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -72,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "e68b8b318f9401d05a6c6e1451d81436b13265eb719c2562c2756247eb3b42b0"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "a08350b90ad20338da525af46deee29214eed99d01302f4201b3d10460d516fd"
 metafile = true
 
 [[files]]
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "3526dfb3497081e63ce78749f3b2c73936a9d6286048b87a7e37f4a51844d021"
 metafile = true
 
 [[files]]
@@ -440,6 +450,11 @@ hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "a60ccef90c959893aa4609f93ffbced0c77e92cb6e63e71c502f00e0056b9919"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
@@ -452,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "c7a4c2b6471d78cf32d19b99521e5ac5c71de8bb4524e1da3db149484d39716c"
 metafile = true
 
 [[files]]
@@ -471,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "44a47033d8f1e2d4ce103790ba8225c092be761030c1a422942fd464fbcc8f91"
+hash = "6b5b8304b49ef3d3fefc7244ce11c79b7919d5990374f0480db54840e50c7290"
 metafile = true
 
 [[files]]
@@ -482,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e539e6f1ae3fd100735d81fa369d5de6867598b1fef836708bf4b235ce2083d6"
 metafile = true
 
 [[files]]

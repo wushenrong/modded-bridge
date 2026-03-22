@@ -24,12 +24,12 @@ Here are additional default configuration changes applied on top of
 
 -   Unbind `Render Scale: Open Config`.
 
--   If [AMECS](https://modrinth.com/project/rcLriA4v) is installed
+-   [AMECS](https://modrinth.com/project/rcLriA4v)
+
+    -   Unbind `Movement: Toggle Auto Jump`.
 
     -   Rebind `Simple Voice Chat: Mute Microphone` from <kbd>M</kbd> to
         <kbd>Control + M</kbd>
-
-    -   Unbind `Movement: Toggle Auto Jump`.
 
 ## Changes from Fabulously Optimized
 
@@ -46,10 +46,6 @@ want to apply.
 
 -   Add [Translations for Sodium](https://modrinth.com/project/yfDziwn1) to the
     resource pack list
-
--   Set `operatorItemsTab` to `true`.
-
-    Shows operator items in the creative inventory when given permissions (/op).
 
 -   Set `telemetryOptInExtra` to `false`.
 

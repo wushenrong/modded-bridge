@@ -2,9 +2,16 @@
 
 Modded Bridge is a Minecraft modpack composed of performance, visual
 enhancement, quality of life, and gameplay features expected from modded
-Mincraft. It's the bridge from vanilla to modded. Built on top of
-[Additive](https://skywardmc.org/additive/) and
-[Fabulously Optimized](https://download.fo/).
+Mincraft, e.g. FTB modpacks and their inspirations, on top of vanilla. It's the
+bridge from vanilla to modded without any additional blocks, items, or
+mobs. Makes it great for beginners getting a feel of modded Minecraft.
+
+This modpack is **not** a FTB modpack nor it's endorsed by FTB. It only
+recreates the experience of a FTB modpack by including or substitute mods from
+their packs.
+
+Build on top of [Additive](https://skywardmc.org/additive/) and includes some
+mods from [Fabulously Optimized](https://download.fo/).
 
 ## Installation
 
@@ -21,26 +28,22 @@ modifications to the default settings.
 
 ## Additional Mods to Consider
 
-See [Supplemental Bridge](https://modrinth.com/collection/OnwfTAei) for
-downloading most of these mods.
+Mods that needs to be downloaded separately because they are only hosted on
+CursedForge, or other player might consider to be major gameplay changes.
 
-### [Amces](https://modrinth.com/project/rcLriA4v)
+See [Supplemental Bridge](https://modrinth.com/collection/OnwfTAei) to download
+most of these mods. Also includes some resource packs and shaders to use.
 
-Using modifier keys for complex keybinds
-(e.g. <kbd>Shift/Ctrl/Alt</kbd> + <kbd>Key</kbd>) is a Forge feature, and Fabric
-does not support it. This pack contains keybinds that utilize modifier keys if
-Amces is installed.
+### [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 
-### [Better Compatibility Checker](https://modrinth.com/project/KJhXPbHQ)
-
-Useful for servers to ensure everybody is using the same version of the pack.
+Adds the GUI to configure JEI, but it's only available on CursedForge.
 
 ### World Maps, Minimaps, Teams, and Claims
 
 Since there are different map/minimap mods and each have their own integration
 with team management and chunks mods, they're not included in the pack. Below is
 are sets of recommended mods to install for maps, chunk claims, and team
-management, **only choose one set of mods**.
+management, *only choose one set of mods*.
 
 -   [Xareo's Mods](https://modrinth.com/user/ANNqL3WC)
     - [Xaero's Minimap](https://modrinth.com/project/1bokaNcj)
@@ -49,29 +52,30 @@ management, **only choose one set of mods**.
 -   [FTB Mods](https://feed-the-beast.com/mods)
     - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
     - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
-    - It's recommended to install other FTB mods featured in their modpacks.
-
-### Vain Miners
-
-For people want to mine ores more quickly without using modded items. Install
-one that integrates with other mods shown above, e.g.
-[FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) with
-other [FTB mods](https://feed-the-beast.com/mods).
+    - It's recommended to install other FTB mods for better integration.
 
 ### World Backups
 
 It's recommended to create backups of worlds in case of accidental world
-deletion. Install one that integrates with other mods shown above, e.g.
-[FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-3) with
-other [FTB mods](https://feed-the-beast.com/mods).
+deletion. Install one that supports Fabric or
+[FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-3) to
+integrate with other FTB mods.
 
-### Other
+### Vein Miners
 
-Gameplay mods that other player might not approve.
+For people want to mine ores more quickly without using modded items, install
+[VeinMiner](https://modrinth.com/mod/veinminer) or
+[FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) to
+integrate with other FTB mods.
+
+### More Gameplay Mods
 
 - [Bridging Mod](https://modrinth.com/project/lO3s8hjs)
+- [Cut Through](https://modrinth.com/project/Dk6su9JN)
 - [Jump Over Fences](https://modrinth.com/project/4HeIHvIP)
+- [Leaves Be Gone](https://modrinth.com/project/AVq17PqV)
 - [No Crop Trample](https://modrinth.com/project/TEL2rIgj)
+- [What Are They Up To](https://modrinth.com/project/AtB5mHky)
 
 ## Contributing
 
@@ -91,9 +95,8 @@ issues and resolve them.
 
 Modded Bridge is licensed under the MIT License. Additive (and Adrenaline) is
 licensed under the MIT License. Fabulously Optimized is licensed under the BSD 3
-Clause License. Mods included in this modpack are licensed differently and are
-either under a difference open source license (approved by OSI and FSF), a
-source available license (i.e. a noncommercial or non-compete license), or
-all rights reserved with its source available. Therefore, some mods can only be
-downloaded from Modrinth. See the dependency list for all mods and
-licenses.
+Clause License. Mods included in this pack are licensed differently and either
+under a difference open source license (approved by OSI and FSF), a source
+available license (i.e. a noncommercial or non-compete license), or all rights
+reserved with its source available. Therefore, some mods can only be downloaded
+from Modrinth. See the dependency list for all mods and licenses.
