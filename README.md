@@ -2,13 +2,9 @@
 
 Modded Bridge is a Minecraft modpack composed of performance, visual
 enhancement, quality of life, and gameplay features expected from modded
-Mincraft, e.g. FTB modpacks and their inspirations, on top of vanilla. It's the
-bridge from vanilla to modded without any additional blocks, items, or
-mobs. Makes it great for beginners getting a feel of modded Minecraft.
-
-This modpack is **not** a FTB modpack nor it's endorsed by FTB. It only
-recreates the experience of a FTB modpack by including or substitute mods from
-their packs.
+Mincraft, e.g. FTB modpacks and inspirations, on top of vanilla. It's the bridge
+from vanilla to modded without any additional blocks, items, or mobs. Makes it
+great for beginners getting a feel of modded Minecraft.
 
 Build on top of [Additive](https://skywardmc.org/additive/) and includes some
 mods from [Fabulously Optimized](https://download.fo/).
@@ -23,33 +19,37 @@ Read Sodium's
 [Driver Compatibility guide](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility)
 before installing this modpack. Read Additive's
 [post-installation guide](https://skywardmc.org/additive/post-install/) to learn
-about gain more performance. See [Configuration Changes](CONFIG_CHANGES.md) for
-modifications to the default settings.
+about gain more performance. See
+[Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/CONFIG_CHANGES.md)
+for modifications to the default settings.
 
 ## Additional Mods to Consider
 
-Mods that needs to be downloaded separately because they are only hosted on
-CursedForge, or other player might consider to be major gameplay changes.
+Lists of mods that are optional because they are only hosted on CursedForge, or
+other player considers them to be major gameplay changes.
 
 See [Supplemental Bridge](https://modrinth.com/collection/OnwfTAei) to download
 most of these mods. Also includes some resource packs and shaders to use.
 
-### [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+### Configured
 
-Adds the GUI to configure JEI, but it's only available on CursedForge.
+Adds the GUI to configure JEI, but it's only
+[available on CursedForge][configured].
 
-### World Maps, Minimaps, Teams, and Claims
+[configured]: https://www.curseforge.com/minecraft/mc-mods/configured
 
-Since there are different map/minimap mods and each have their own integration
-with team management and chunks mods, they're not included in the pack. Below is
-are sets of recommended mods to install for maps, chunk claims, and team
+### Maps, Teams, and Claims
+
+Since there are different map/minimap mods and each have their own team
+management and chunks claiming integration, they're not included in the pack.
+Below are sets of recommended mods to install for maps, chunk claims, and team
 management, *only choose one set of mods*.
 
 -   [Xareo's Mods](https://modrinth.com/user/ANNqL3WC)
     - [Xaero's Minimap](https://modrinth.com/project/1bokaNcj)
     - [Xaero's World Map](https://modrinth.com/project/NcUtCpym)
     - [Open Parties and Claims](https://modrinth.com/project/gF3BGWvG)
--   [FTB Mods](https://feed-the-beast.com/mods)
+-   [FTB Mods](https://feed-the-beast.com/mods) (Only available on CursedForge)
     - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
     - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
     - It's recommended to install other FTB mods for better integration.
@@ -82,12 +82,13 @@ integrate with other FTB mods.
 Suggestions for mod replacements are welcomed to reduce dependencies and towards
 mods that are open source. If there are any incompatibility between mods in this
 pack, then please create an issue to report the incompatibility, so a search for
-a replacement can be started. **Do not report issues to SkywardMC**. The best
-way to check conflicting mods is to run instances of Additive and Adrenaline
-with the suspected incompatible mod.
+a replacement can be started.
+**Do not report issues related to this pack to SkywardMC**. The best way to
+check conflicting mods is to run instances of Additive and Adrenaline with the
+suspected incompatible mod.
 
-When opening [issues](https://github.com/wushenrong/modded-bridge), be sure to
-include necessary information like your hardware/software
+When opening [issues](https://github.com/wushenrong/modded-bridge/issues), be
+sure to include necessary information like your hardware/software
 (e.g. GPU and CPU, modpack version and OS) so that it's easier for us to find
 issues and resolve them.
 
