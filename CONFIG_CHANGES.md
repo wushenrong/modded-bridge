@@ -31,6 +31,10 @@ Here are additional default configuration changes applied on top of
     -   Rebind `Simple Voice Chat: Mute Microphone` from <kbd>M</kbd> to
         <kbd>Control + M</kbd>
 
+-   [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)
+
+    - Set `guiAlignment` from `top_left` to `bottom_right`.
+
 ## Changes from Fabulously Optimized
 
 See <https://wiki.download.fo/changed-options> for additional options you might
