@@ -16,6 +16,7 @@ and this project adheres to
 - [Particular ✨ Reforged](https://modrinth.com/project/pYFUU6cq)
 - [Auth Me](https://modrinth.com/project/yjgIrBjZ)
 - [WITS (What Is This Structure?)](https://modrinth.com/project/AVo2esap)
+- [Status Effect Bars](https://modrinth.com/project/x02cBj9Y)
 
 ### Changed
 

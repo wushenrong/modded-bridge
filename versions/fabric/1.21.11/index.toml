@@ -619,6 +619,11 @@ hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "3ed900bdfc8331520c122957c64c930a50bd814a722b6367155af675d4bf0e40"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "0db01c3a00fa869d75551efdd90a227b942f6ab8339426b956297072226341d6"
 metafile = true
