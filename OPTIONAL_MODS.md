@@ -17,6 +17,7 @@ creation.
 
 - 3D Skin Layers
 - Armor Poser
+- Distant Horizons
 - Ears
 - Emotecraft
 - First-person Model
