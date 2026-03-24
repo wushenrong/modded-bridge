@@ -1,0 +1,13 @@
+name = "Jade Modded Entities"
+filename = "jademoddedentities-fabric-1.21.11-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GAJkSU0A/versions/BnX5KLKv/jademoddedentities-fabric-1.21.11-1.2.0.jar"
+hash-format = "sha512"
+hash = "b6003246b67c9bdce02401e39464efc845e1e78f3b0c688ece8c3b9fe522ffa8d41e175957bfa1bdc145477ede03da4febc8dbe0e77987416ee665b50a398cc3"
+
+[update]
+[update.modrinth]
+mod-id = "GAJkSU0A"
+version = "BnX5KLKv"
