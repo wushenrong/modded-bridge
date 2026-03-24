@@ -1,0 +1,13 @@
+name = "MacOS-Input-Fix"
+filename = "macos-input-fix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jyfqFzRJ/versions/xzYO0Vcz/macos-input-fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "c5c2b9ded645203ce9931883caf3e9a1d7afb2da90609539168f93ddb165ad34c74719f0463f2c7f03b6e2e8497de9fb2794f37bd6fb0574ca915e09d6857fea"
+
+[update]
+[update.modrinth]
+mod-id = "jyfqFzRJ"
+version = "xzYO0Vcz"
