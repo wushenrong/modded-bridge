@@ -109,6 +109,11 @@ hash = "496f910cd819831529431992895d76cc3c9023d58c36ef879f4dc8eceeef1906"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "1562c21781759f538378d67275bac4497dd15b68b85d13e9c5b613a1ba46cacc"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "27f6e9059dbd255111efd6951215a0f3d985a1dcde3a9afd5a6eeab57a91ce43"
 metafile = true
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "8cd6621306bcd68816180ce08900192d2af6351a282388083ab5a5585229c6eb"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1d8232c5894159c0c8c0c8a7ffb7a74681e2b91e739c35b4275494330c628abf"
 metafile = true
 
 [[files]]
@@ -464,6 +474,11 @@ hash = "a60ccef90c959893aa4609f93ffbced0c77e92cb6e63e71c502f00e0056b9919"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "93e5023b9b45c297a69ee769941b4c6a7f65eeb3f2baa569ad52f3d5aa8de398"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
@@ -486,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "d2d2a0fb926dceccfa28b848ec2505a229ed06ae33c7f5409dc3c14a3cdfc854"
 metafile = true
 
 [[files]]
@@ -631,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "3f5679e5212d0cb5e6700b4d13001d435e60fb9151121e01f83d9f10d296eba5"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "ec63374776c164f3b6384183cfc43bd9d7259e4954d7034b9c6edfb409d4252e"
 metafile = true
 
 [[files]]

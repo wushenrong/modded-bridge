@@ -75,6 +75,7 @@ integrate with other FTB mods.
 - [Jump Over Fences](https://modrinth.com/project/4HeIHvIP)
 - [Leaves Be Gone](https://modrinth.com/project/AVq17PqV)
 - [No Crop Trample](https://modrinth.com/project/TEL2rIgj)
+- [Squat Grow](https://modrinth.com/project/b5JMdB5V)
 - [What Are They Up To](https://modrinth.com/project/AtB5mHky)
 
 ## Contributing

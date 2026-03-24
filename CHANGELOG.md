@@ -12,6 +12,10 @@ and this project adheres to
 
 - [Emotecraft](https://modrinth.com/project/pZ2wrerK)
 - [Player Animation Library](https://modrinth.com/project/ha1mEyJS)
+- [Enchantment Descriptions](https://modrinth.com/project/UVtY3ZAC)
+- [Particular ✨ Reforged](https://modrinth.com/project/pYFUU6cq)
+- [Auth Me](https://modrinth.com/project/yjgIrBjZ)
+- [WITS (What Is This Structure?)](https://modrinth.com/project/AVo2esap)
 
 ### Changed
 
