@@ -15,6 +15,10 @@ Use your favorite launcher, [Modrinth App](https://modrinth.com/app) or
 [Prism Launcher](https://prismlauncher.org/) are recommended, to download
 [the pack from Modrinth](https://modrindth.com/modpack/modded-bridge).
 
+Be sure to read
+[Optional Mods](https://github.com/wushenrong/modded-bridge/blob/main/OPTIONAL_MODS.md)
+for mods that are not installed by default nor are included in this pack.
+
 Read Sodium's
 [Driver Compatibility guide](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility)
 before installing this modpack. Read Additive's
@@ -22,61 +26,6 @@ before installing this modpack. Read Additive's
 about gain more performance. See
 [Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/CONFIG_CHANGES.md)
 for modifications to the default settings.
-
-## Additional Mods to Consider
-
-Lists of mods that are optional because they are only hosted on CursedForge, or
-other player considers them to be major gameplay changes.
-
-See [Supplemental Bridge](https://modrinth.com/collection/OnwfTAei) to download
-most of these mods. Also includes some resource packs and shaders to use.
-
-### Configured
-
-Adds the GUI to configure JEI, but it's only
-[available on CursedForge][configured].
-
-[configured]: https://www.curseforge.com/minecraft/mc-mods/configured
-
-### Maps, Teams, and Claims
-
-Since there are different map/minimap mods and each have their own team
-management and chunks claiming integration, they're not included in the pack.
-Below are sets of recommended mods to install for maps, chunk claims, and team
-management, *only choose one set of mods*.
-
--   [Xareo's Mods](https://modrinth.com/user/ANNqL3WC)
-    - [Xaero's Minimap](https://modrinth.com/project/1bokaNcj)
-    - [Xaero's World Map](https://modrinth.com/project/NcUtCpym)
-    - [Open Parties and Claims](https://modrinth.com/project/gF3BGWvG)
--   [FTB Mods](https://feed-the-beast.com/mods) (Only available on CursedForge)
-    - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
-    - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
-    - It's recommended to install other FTB mods for better integration.
-
-### World Backups
-
-It's recommended to create backups of worlds in case of accidental world
-deletion. Install one that supports Fabric or
-[FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-3) to
-integrate with other FTB mods.
-
-### Vein Miners
-
-For people want to mine ores more quickly without using modded items, install
-[VeinMiner](https://modrinth.com/mod/veinminer) or
-[FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) to
-integrate with other FTB mods.
-
-### More Gameplay Mods
-
-- [Bridging Mod](https://modrinth.com/project/lO3s8hjs)
-- [Cut Through](https://modrinth.com/project/Dk6su9JN)
-- [Jump Over Fences](https://modrinth.com/project/4HeIHvIP)
-- [Leaves Be Gone](https://modrinth.com/project/AVq17PqV)
-- [No Crop Trample](https://modrinth.com/project/TEL2rIgj)
-- [Squat Grow](https://modrinth.com/project/b5JMdB5V)
-- [What Are They Up To](https://modrinth.com/project/AtB5mHky)
 
 ## Contributing
 
