@@ -49,6 +49,10 @@ file = "config/modpack_defaults/config/modmenu.json"
 hash = "c63ce69424bd3be2bbf04b84cad132803f0ccc0f4cf49390b60369b8bd744c00"
 
 [[files]]
+file = "config/modpack_defaults/config/pickupnotifications.toml"
+hash = "25aecd53499c59e4e6d48737a263f389214fdaf9775d5157874ed26ca0244282"
+
+[[files]]
 file = "config/modpack_defaults/config/puzzle.json"
 hash = "0bc98d849d26c89e81d0e3670f53f7ff9a758d66e56d4764c089a1066e5e7d24"
 
@@ -242,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "9b30e993f21da8f74807d67c218e0ac8e02cdeae368e7a743cbd5bfa625b0580"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "8cd6621306bcd68816180ce08900192d2af6351a282388083ab5a5585229c6eb"
 metafile = true
 
 [[files]]
@@ -487,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "3e1fa6022713505134e045b9713884cb235f3639ea12e7dc64f5f2c39520be85"
 metafile = true
 
 [[files]]

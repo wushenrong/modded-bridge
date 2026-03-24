@@ -9,6 +9,10 @@ and this project adheres to
 ## [Unreleased]
 
 ### Added
+
+- [Emotecraft](https://modrinth.com/project/pZ2wrerK)
+- [Player Animation Library](https://modrinth.com/project/ha1mEyJS)
+
 ### Changed
 
 - Move pickup notification from top left to bottom right.
