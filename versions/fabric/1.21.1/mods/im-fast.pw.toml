@@ -1,6 +1,6 @@
 name = "I'm Fast"
 filename = "imfast-FABRIC-1.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/xNGfkEBd/imfast-FABRIC-1.0.2.jar"

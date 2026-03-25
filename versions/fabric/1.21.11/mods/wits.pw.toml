@@ -1,6 +1,6 @@
 name = "WITS (What Is This Structure?)"
 filename = "wits-1.4.1+1.21.11-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AVo2esap/versions/Dvt1g4Zb/wits-1.4.1%2B1.21.11-fabric.jar"
