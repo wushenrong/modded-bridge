@@ -28,6 +28,7 @@ creation.
 
 ## Multiplayer
 
+- Auth Me
 - Chat Heads
 - e4mc
 - More Chat History
