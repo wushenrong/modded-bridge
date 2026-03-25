@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ce9da15c6e275028db8d3a93848e95ba7b1be4d8f219bc534b09c517071ea066"
+hash = "44b01f94ef3c267e2f195c59935c58b8664c3d427d9d7e29ef137ba5f53b4d04"
+
+[[files]]
+file = "config/modpack_defaults/config/bcc-common.toml"
+hash = "efe0915ed7f3e10652c7e57151f5de8c61f80fb4538993c11c8997eca21d2f1a"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -55,10 +59,6 @@ hash = "99bc3ebb6ed4c3a91dcf0cc9dfdd6fbf18eef38abf7c6cc8edae77867a043e6a"
 [[files]]
 file = "config/modpack_defaults/config/modmenu.json"
 hash = "c63ce69424bd3be2bbf04b84cad132803f0ccc0f4cf49390b60369b8bd744c00"
-
-[[files]]
-file = "config/modpack_defaults/config/pickupnotifications.toml"
-hash = "25aecd53499c59e4e6d48737a263f389214fdaf9775d5157874ed26ca0244282"
 
 [[files]]
 file = "config/modpack_defaults/config/puzzle.json"
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "457db1d43d9a9a2080f065683ce4d195f8d7d685d1a062be6b54f33fb8066137"
+hash = "ecf9eba522f63fad85b44dc972989970ad67d3aa12f42409ad840937d12e3e90"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "9fdda275d9874460d750d49a181fa6b8393294c50292e9c47ca3af00e9f77349"
+hash = "d1037b3ab32af9283b8e59d4fb7bbb62b44cdfe6240a0922411eaa79b5b8b108"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
+hash = "02048c446db7ddd424cba387f4f96393fb38c0a7e54dcb24ba3315ddbe6af31c"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
@@ -531,13 +531,8 @@ hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
-file = "mods/pickup-notifications.pw.toml"
-hash = "d6de6e02902903a4f55f77ae9a50ae2cc0ea11f33366a7c6692de05992305a18"
-metafile = true
-
-[[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+file = "mods/pick-up-notifier.pw.toml"
+hash = "af6de4e48064926264441ace0dc8f3193deedd534e2963c25a7700d4dfa6f825"
 metafile = true
 
 [[files]]
@@ -582,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "7115961dc4a355e257229fdfdcef5ce8bc1003b015cfaa18e8203fd79b34a860"
+hash = "89a996938bbdaeba32774ff896b6f7d431ea54178a2fa765e61e26057376cfe3"
 metafile = true
 
 [[files]]
@@ -682,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "e7a630e261c40242ea52b16c9b120b8c9d4b0d0339bd6f097f63828e21dd082c"
+hash = "492dc6e49dc2f2c6b7dd1a19ed16cb6da9238faab2a78c52cbd9e10a8b931f5e"
 metafile = true
 
 [[files]]

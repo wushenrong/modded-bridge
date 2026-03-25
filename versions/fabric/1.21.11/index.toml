@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ce9da15c6e275028db8d3a93848e95ba7b1be4d8f219bc534b09c517071ea066"
+hash = "44b01f94ef3c267e2f195c59935c58b8664c3d427d9d7e29ef137ba5f53b4d04"
+
+[[files]]
+file = "config/modpack_defaults/config/bcc-common.json"
+hash = "284bb1d01e7e7a978e2620c7c68f15670059874a4794af1c94cad8b71a69ba5b"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -49,10 +53,6 @@ file = "config/modpack_defaults/config/modmenu.json"
 hash = "c63ce69424bd3be2bbf04b84cad132803f0ccc0f4cf49390b60369b8bd744c00"
 
 [[files]]
-file = "config/modpack_defaults/config/pickupnotifications.toml"
-hash = "25aecd53499c59e4e6d48737a263f389214fdaf9775d5157874ed26ca0244282"
-
-[[files]]
 file = "config/modpack_defaults/config/puzzle.json"
 hash = "0bc98d849d26c89e81d0e3670f53f7ff9a758d66e56d4764c089a1066e5e7d24"
 
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "a08350b90ad20338da525af46deee29214eed99d01302f4201b3d10460d516fd"
+hash = "298a04fd1b35711ef80dc9455b089fd54ebd3dc3903ff42b7e5924aff628e98a"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "32dc81963e1a7a7bd7dc71c504fd40d808520120b415d7bc0bf380a686386b4d"
+hash = "ad93fc8d2e70a2231a0ddff0282b9ecf49cd4cf68a17cc128e9a3f485e4737cd"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "8cd6621306bcd68816180ce08900192d2af6351a282388083ab5a5585229c6eb"
+hash = "77d9291d9277e272f68493b40030cff2f7154beac7061667cc4c8a4908c023bb"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "af09ef250b1baffa2f83e6774b959829857e4ac4e56be1e26ee01b3e7539052d"
+hash = "998d4a59b2d6ea8629319298b17e5902adba8f0c441ab3e7e640f6e2e38da648"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
+hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "59d092d4627a3a2c01ba0c621e0de6e09d6b7c04e1f3230cd735740c4f1ea537"
+hash = "c9ef8bb86cd7a7176e9848848b7a86a88bc51515b3325d7d4d7f17591014c5ce"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "f60ae18521483076ba758c125890ce3d79df13305ebd36f6901334ae44cd4d2d"
+hash = "c0eb041c387e6ee2e340f1bf6804de39ff58104d7f702518dd2042ba4fcf838f"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
+hash = "c3069d6c3ef1d13c9ba064824777c4d74dd504cad358cb0b6f06f6266fc143c8"
 metafile = true
 
 [[files]]
@@ -509,8 +509,8 @@ hash = "d2d2a0fb926dceccfa28b848ec2505a229ed06ae33c7f5409dc3c14a3cdfc854"
 metafile = true
 
 [[files]]
-file = "mods/pickup-notifications.pw.toml"
-hash = "044924de72e8b06af4ec1df640a5a7ad3e764fd53d4d4b54c81797b2f08c7b91"
+file = "mods/pick-up-notifier.pw.toml"
+hash = "4f09ed451dc2215f4cb0ba6d3857d6bb61fedc05f5b12e8084db0d7417a3e395"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6b5b8304b49ef3d3fefc7244ce11c79b7919d5990374f0480db54840e50c7290"
+hash = "06f7e21a63faa960bf071b518278f2c0bdf6a4528daf37faf7e6a5adfd01b067"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e539e6f1ae3fd100735d81fa369d5de6867598b1fef836708bf4b235ce2083d6"
+hash = "c40d8e77ffbe90eaef56e4acbb1f74850792a7541254c77d65ba382e765e61be"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "f6cd3f83b4a4db5abf5aa33c0f637e01af16e537a84f20feb14f509d42bc40cd"
+hash = "15b03a51d6c38d494552d5a42513257d644b337d3b1589f4762ebc9a1f4debeb"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "7c93161436c57ab14685d1a5d70bfd58c63c7e69106e9363043aae4afd5d59dd"
+hash = "ed1ff73055440ca8d1d2de6d124a39fc8b0e3b9083329348b0097e71366f494c"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "ec63374776c164f3b6384183cfc43bd9d7259e4954d7034b9c6edfb409d4252e"
+hash = "c20c92d585638cd3e24c908b4052439117657679e194d8938ddb8e3de4550ff7"
 metafile = true
 
 [[files]]
@@ -680,10 +680,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
+hash = "8673f325eac5259469da0feff95f3770f21a4a5b405d573096c3ffe52684369b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "de35c3dfc3405ddbeef1e8034faebb900fe7fb174f9b31afa36f945126f2bb55"
+hash = "c56825ef0f02e351c103d3eaf3ff204f881361f6c14c075f56754406db77ae08"
 metafile = true
