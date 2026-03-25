@@ -32,7 +32,6 @@ creation.
 - Chat Heads
 - e4mc
 - More Chat History
-- NetherPortalFix
 - Simple Voice Chat
 - [What Are They Up To](https://modrinth.com/project/AtB5mHky)
 
