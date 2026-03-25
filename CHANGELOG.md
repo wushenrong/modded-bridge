@@ -10,17 +10,38 @@ and this project adheres to
 
 ### Added
 
-- [Emotecraft](https://modrinth.com/project/pZ2wrerK)
-- [Player Animation Library](https://modrinth.com/project/ha1mEyJS)
-- [Enchantment Descriptions](https://modrinth.com/project/UVtY3ZAC)
-- [Particular ✨ Reforged](https://modrinth.com/project/pYFUU6cq)
-- [Auth Me](https://modrinth.com/project/yjgIrBjZ)
-- [WITS (What Is This Structure?)](https://modrinth.com/project/AVo2esap)
-- [Status Effect Bars](https://modrinth.com/project/x02cBj9Y)
+- Mostly parity support for 1.21.1 and configs from Additive.
+
+#### 1.21.1 Mods
+
+- CIT Resewn
+- Enhanced Block Entities
+- Sodium Leaf Culling
+- Bookshelf
+
+#### 1.21.11 Mods
+
+- Auth Me
+- Emotecraft
+- Enchantment Descriptions
+- Particular ✨ Reforged
+- Player Animation Library
+- Status Effect Bars
+- WITS (What Is This Structure?)
 
 ### Changed
 
 - Move pickup notification from top left to bottom right.
+
+### Updated
+
+### Removed
+
+#### 1.21.1 Mods
+
+- Better Block Entities
+- Tag Translations for JEI
+- Cull Fewer Leaves
 
 ## [1.0.0] - 2026-03-22
 
