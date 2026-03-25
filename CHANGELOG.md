@@ -17,6 +17,7 @@ and this project adheres to
 - CIT Resewn
 - Enhanced Block Entities
 - Sodium Leaf Culling
+- Bookshelf
 
 #### 1.21.11 Mods
 
