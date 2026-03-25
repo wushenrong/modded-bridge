@@ -11,6 +11,7 @@ and this project adheres to
 ### Added
 
 - Mostly parity support for 1.21.1 and configs from Additive.
+- Configuration for Better Compatibility Checker.
 
 #### 1.21.1 Mods
 
@@ -31,9 +32,20 @@ and this project adheres to
 
 ### Changed
 
-- Move pickup notification from top left to bottom right.
+- Swap Pickup Notifications for Pick Up Notifier.
 
 ### Updated
+
+- Amecs
+- Chat Reporting Helper
+- Iris Shaders
+- Language Reload
+- Modmenu
+- Polytone
+- Puzzles
+- Skyboxify
+- Sodium
+- Translations for Sodium
 
 ### Removed
 
