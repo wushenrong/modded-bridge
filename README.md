@@ -25,18 +25,18 @@ before installing this modpack. Read Additive's
 about gain more performance. See
 [Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/CONFIG_CHANGES.md)
 for modifications to the default settings. See
-[Optional Mods](https://github.com/wushenrong/modded-bridge/blob/main/OPTIONAL_MODS.md)
-that are not included in the base pack by default.
+[Additional Mods](https://github.com/wushenrong/modded-bridge/blob/main/ADDITIONAL_MODS.md)
+that you might want to install as it's not included in the pack. Also, check the
+installed mod list for mods you want to disable/remove.
 
 ## Contributing
 
-Suggestions for mod replacements are welcomed to reduce dependencies and towards
-mods that are open source. If there are any incompatibility between mods in this
-pack, then please create an issue to report the incompatibility, so a search for
-a replacement can be started.
-**Do not report issues related to this pack to SkywardMC**. The best way to
-check conflicting mods is to run instances of Additive and Adrenaline with the
-suspected incompatible mod.
+Suggestions are welcomed, especially mod replacements to reduce dependencies and
+towards mods that are open source. If there are any incompatibility between mods
+in this pack, then please create an issue to report the incompatibility so we
+can replace the mod. **Do not report issues related to this pack to SkywardMC**.
+The best way to check conflicting mods is to run instances of Additive and
+Adrenaline with the suspected incompatible mod.
 
 When opening [issues](https://github.com/wushenrong/modded-bridge/issues), be
 sure to include necessary information like your hardware/software
@@ -51,4 +51,4 @@ Clause License. Mods included in this pack are licensed differently and either
 under a difference open source license (approved by OSI and FSF), a source
 available license (i.e. a noncommercial or non-compete license), or all rights
 reserved with its source available. Therefore, some mods can only be downloaded
-from Modrinth. See the dependency list for all mods and licenses.
+from Modrinth. See the dependency list for all mods in the pack.
