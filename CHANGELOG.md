@@ -33,6 +33,8 @@ and this project adheres to
 ### Changed
 
 - Swap Pickup Notifications for Pick Up Notifier.
+- Change Simple Chocolate Minecraft to Modded Bridge in Crash Assistant.
+- Fix Better Compatibility Checker's configuration.
 
 ### Updated
 
@@ -48,6 +50,9 @@ and this project adheres to
 - Translations for Sodium
 
 ### Removed
+
+- Distant Horizons and its `options.txt` settings
+- Flashback
 
 #### 1.21.1 Mods
 

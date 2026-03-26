@@ -1,6 +1,4 @@
-version:4671
-graphicsPreset:"custom"
-renderDistance:12
+version:4786
 simulationDistance:8
 resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip"]
 advancedItemTooltips:true
