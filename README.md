@@ -7,7 +7,7 @@ from vanilla to modded without any additional blocks, items, or mobs. Makes it
 great for beginners getting a feel of modded Minecraft.
 
 Build on top of [Additive](https://skywardmc.org/additive/) and includes some
-mods from [Fabulously Optimized](https://download.fo/).
+mods and configuration from [Fabulously Optimized](https://download.fo/).
 
 ## Installation
 
@@ -17,7 +17,7 @@ Use your favorite launcher, [Modrinth App](https://modrinth.com/app) or
 
 Be sure to read
 [Optional Mods](https://github.com/wushenrong/modded-bridge/blob/main/OPTIONAL_MODS.md)
-for mods that are not installed by default nor are included in this pack.
+for mods that are not installed by default nor included in this pack.
 
 Read Sodium's
 [Driver Compatibility guide](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility)
