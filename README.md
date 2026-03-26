@@ -26,7 +26,7 @@ about gain more performance. See
 [Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/CONFIG_CHANGES.md)
 for modifications to the default settings. See
 [Optional Mods](https://github.com/wushenrong/modded-bridge/blob/main/OPTIONAL_MODS.md)
-that are not included in the pack by default.
+that are not included in the base pack by default.
 
 ## Contributing
 
