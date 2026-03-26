@@ -6,22 +6,6 @@ Here are additional default configuration changes applied on top of
 
 ## Changed Settings
 
--   Set `version` to the current configuration version of Minecraft.
-
-    Newer configuration options will not get applied unless this is set to a
-    recent version of Minecraft.
-
--   Set `graphicsPreset` from `fancy` to `custom`.
-
-    Graphics configuration will default to `fancy` settings unless this is set
-    to `custom`.
-
--   Set `renderDistance` from `16` to `12`.
-
-    This is the recommended render distance for
-    [Distant Horizons](https://modrinth.com/project/uCdwusMi).
-    You may want to lower this value.
-
 -   Unbind `Render Scale: Open Config`.
 
 -   [AMECS](https://modrinth.com/project/rcLriA4v)
@@ -30,10 +14,6 @@ Here are additional default configuration changes applied on top of
 
     -   Rebind `Simple Voice Chat: Mute Microphone` from <kbd>M</kbd> to
         <kbd>Control + M</kbd>
-
--   [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)
-
-    - Set `guiAlignment` from `top_left` to `bottom_right`.
 
 ## Changes from Fabulously Optimized
 
@@ -50,6 +30,11 @@ want to apply.
 
 -   Add [Translations for Sodium](https://modrinth.com/project/yfDziwn1) to the
     resource pack list
+
+-   Set `version` to the current configuration version of Minecraft.
+
+    Newer configuration options will not get applied unless this is set to a
+    recent version of Minecraft.
 
 -   Set `telemetryOptInExtra` to `false`.
 

@@ -1,3 +1,4 @@
 [general]
 modpackName = "Modded Bridge"
 modpackVersion = "1.1.0+1.21.1"
+useMetadata = false

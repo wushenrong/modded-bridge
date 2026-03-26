@@ -5,6 +5,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "ce9da15c6e275028db8d3a93848e95ba7b1be4d8f219bc534b09c517071ea066"
 
 [[files]]
+file = "config/modpack_defaults/config/bcc-common.json"
+hash = "392398569ed67acbaaca6dc04249b17b135b35deb73eb47002c3453d89d39864"
+
+[[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
 hash = "6dbd77d91d79a7e4da1b93b811c35554fc649cd76dac7cae5f2fdf759379ead0"
 
@@ -14,7 +18,7 @@ hash = "4389aa0511b33891b3f98565b044223361bc6573cea60258736a49ce063e426c"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "161a85742e345002f2e54dd76c780792b7169963f71555e15c57686938b453f3"
+hash = "c3fd003ba30e54bf69a94c69c4ee5f7b4a0d51b1916f230f236f553dd0ee7cfc"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -66,7 +70,7 @@ hash = "86f963b7758c48b20b5570e94c3161cfe90eb2d5e5fb5113ca68d1544d89cc67"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "ba5918cbad28429e1b85250c5f29adabcb084633f3d487391c0a063887d254a1"
+hash = "e311d1878c5c740438a8452227012885f2847ebc4050bf4b0145a0763fe96839"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -229,11 +233,6 @@ hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
-metafile = true
-
-[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "584c4c1c6f904156678e5eda999e959ca37df894dbb720b407993e01acd3eb58"
 metafile = true
@@ -321,11 +320,6 @@ metafile = true
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
-metafile = true
-
-[[files]]
-file = "mods/flashback.pw.toml"
-hash = "544eaa2ff476c609cbfd4487fcdd09feda5f9208f1976bf3ceb4fbe4e3bb0e27"
 metafile = true
 
 [[files]]
