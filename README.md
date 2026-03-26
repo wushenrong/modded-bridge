@@ -7,7 +7,7 @@ from vanilla to modded without any additional blocks, items, or mobs. Makes it
 great for beginners getting a feel of modded Minecraft.
 
 Build on top of [Additive](https://skywardmc.org/additive/) and includes some
-mods from [Fabulously Optimized](https://download.fo/).
+mods and configuration from [Fabulously Optimized](https://download.fo/).
 
 ## Installation
 
