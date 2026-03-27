@@ -36,6 +36,11 @@ want to apply.
     Newer configuration options will not get applied unless this is set to a
     recent version of Minecraft.
 
+-   Set `graphicsPreset` from `fancy` to `custom`.
+
+    Graphics configuration will default to `fancy` settings unless this is set
+    to `custom`.
+
 -   Set `telemetryOptInExtra` to `false`.
 
     Disable additional telemetry, in case this gets enabled in a later release.

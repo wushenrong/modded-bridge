@@ -78,7 +78,7 @@ hash = "86f963b7758c48b20b5570e94c3161cfe90eb2d5e5fb5113ca68d1544d89cc67"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "e0503d345a7576e58ea9c2aff987b8270289472c19cc67583188fc666f4a3df2"
+hash = "6defd72164feede922308861cc1a832fa630ef4c1b7b0f627d7aa0fbfb259e72"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
