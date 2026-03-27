@@ -32,22 +32,10 @@ and this project adheres to
 
 ### Changed
 
+- Update all mods.
 - Swap Pickup Notifications for Pick Up Notifier.
-- Change Simple Chocolate Minecraft to Modded Bridge in Crash Assistant.
+- Change "Simple Chocolate Minecraft" to "Modded Bridge" in Crash Assistant.
 - Fix Better Compatibility Checker's configuration.
-
-### Updated
-
-- Amecs
-- Chat Reporting Helper
-- Iris Shaders
-- Language Reload
-- Modmenu
-- Polytone
-- Puzzles
-- Skyboxify
-- Sodium
-- Translations for Sodium
 
 ### Removed
 
