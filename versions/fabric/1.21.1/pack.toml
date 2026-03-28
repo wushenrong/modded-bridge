@@ -1,12 +1,12 @@
 name = "Modded Bridge"
 author = "Samuel Wu"
-version = "1.2.0+1.21.1"
+version = "1.2.1+1.21.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d251550cc361c7885be2ec1d67f18952f210f2c84c727491adcf1ceeefd19471"
+hash = "6a3c9a7fd237fcfef9846ed37708bb3b8c82a3590e250844fd2959c5c593e465"
 
 [versions]
 fabric = "0.18.4"

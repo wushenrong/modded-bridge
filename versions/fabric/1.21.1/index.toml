@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "461b6c290e2a2b516ed7dde151271597d18db9575628a83803624ca0ac3834c7"
+hash = "6efe427a3ccbecf787b08e2d35c8e89dbe4f416fece8f76861fc1e3a9c4ee1b0"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.toml"
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f2989d2e3e73dd45ac2a3437d1d5a8d8770318d361d09e600fad1399fec854c8"
+hash = "ad694ba4dc5d8ed6d927b206eab0087ea49742f6f28e26e0a1956fe4eb2c9b3e"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "c0f56e843e0cbebdfcb6a94f4eb84e48404f32b555adaf0a6a0e6563b083f8db"
+hash = "ba61f2b2036494b919c3495a82b03b07bc1621a9e398f19d0dd7aee609d044bd"
 metafile = true
 
 [[files]]
