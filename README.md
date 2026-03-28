@@ -12,12 +12,10 @@ mods and configurations from [Fabulously Optimized](https://download.fo/).
 
 ## Installation
 
-Use your favorite launcher that supports optional mods to download
+Use your favorite launcher to download
 [the pack from Modrinth](https://modrindth.com/modpack/modded-bridge).
-[Prism Launcher](https://prismlauncher.org/) is recommended but it has
-lackluster support. See
-[Additive#107](https://github.com/skywardmc/additive/issues/107) for more
-information.
+[Modrinth App](https://modrinth.com/app) or
+[Prism Launcher](https://prismlauncher.org/) is recommended.
 
 Read Sodium's
 [Driver Compatibility guide](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility)
