@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9f0cb8d84c117be61dfc869e74285fdb80aecbde6b75f4a340837d6871cb02e4"
+hash = "461b6c290e2a2b516ed7dde151271597d18db9575628a83803624ca0ac3834c7"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.json"
-hash = "01193464fc5caea1788ad2899ed0a362ccf21bec6e769767721c6d77155cb4ee"
+hash = "c13f2de75fe5b549e76709687500fd85d40998b40e05056bb04d62c4e24cfa82"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "998d4a59b2d6ea8629319298b17e5902adba8f0c441ab3e7e640f6e2e38da648"
+hash = "8e3bd4d83e97fa33c188ba2b5188f9f4a3920b86c7d913bb99d013499a7eb288"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "225c4d26ae5d2345591ce23340cdaf9009a46a1fc46a7cb054795cd8403efe56"
+hash = "57537f96f4fb3b21696106700e6540aea4e389dc7952aaa6f6d523c49381f7de"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "c0eb041c387e6ee2e340f1bf6804de39ff58104d7f702518dd2042ba4fcf838f"
+hash = "20adb0726fd84423590703ae9ce87721ebb1c41d786638578aa59964352b17a0"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "15b03a51d6c38d494552d5a42513257d644b337d3b1589f4762ebc9a1f4debeb"
+hash = "26bff75084a00a69e8594895354f0cd9703e9dc384f7b6aaf0caa7cad2eed8e2"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "c20c92d585638cd3e24c908b4052439117657679e194d8938ddb8e3de4550ff7"
+hash = "ed75e670d186f51e1226f22928c01ae2eec80924f03a43cafb2a04907ef7ed2f"
 metafile = true
 
 [[files]]
