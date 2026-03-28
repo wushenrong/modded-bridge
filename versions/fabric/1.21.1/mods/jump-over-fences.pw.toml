@@ -1,13 +1,13 @@
 name = "Jump Over Fences"
-filename = "jumpoverfences-fabric-1.21.11-1.13.1.jar"
+filename = "jumpoverfences-fabric-1.21.1-1.6.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4HeIHvIP/versions/KVRcSuOY/jumpoverfences-fabric-1.21.11-1.13.1.jar"
+url = "https://cdn.modrinth.com/data/4HeIHvIP/versions/dp0CUIrm/jumpoverfences-fabric-1.21.1-1.6.1.jar"
 hash-format = "sha512"
-hash = "3e9f68a3721687b7f67b1ba04d027a013a10560b742ecc80b2cdd6dee098c38e7b9a884ea03d8af82057908e4049887e5dba6a6a076bdefaa4a1bdab9e070a4d"
+hash = "c83cc9ed96b988f465555af91b7ee1374514f0a214f840e5dd6de8ffe827560aab137eed2b384624a7d12fb9869b00059db21feca643819dff3cda4fd299ef5e"
 
 [update]
 [update.modrinth]
 mod-id = "4HeIHvIP"
-version = "KVRcSuOY"
+version = "dp0CUIrm"

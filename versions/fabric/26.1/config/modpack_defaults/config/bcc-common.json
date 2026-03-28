@@ -1,8 +1,7 @@
 {
   "modpackName": {
     "comments": [
-      "The name of the modpack",
-      "This only applies to the base modpack"
+      "The name of the modpack"
     ],
     "value": "Modded Bridge"
   },
@@ -10,7 +9,7 @@
     "comments": [
       "The version of the modpack"
     ],
-    "value": "1.1.0+26.1"
+    "value": "1.2.0+26.1"
   },
   "useMetadata": {
     "comments": [
