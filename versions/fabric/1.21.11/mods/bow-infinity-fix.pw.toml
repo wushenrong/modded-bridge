@@ -1,0 +1,13 @@
+name = "Bow Infinity Fix"
+filename = "BowInfinityFix-1.21.9-fabric-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFENfScW/versions/besCdt3U/BowInfinityFix-1.21.9-fabric-3.1.2.jar"
+hash-format = "sha512"
+hash = "95740611709d6090c6e8741ef1c65762f812906d4120f857f1e5862d7aa14c55810eb6aacea918e354eb7a00668c263d244b508b6bd6e4cc6b13c3637b4918f9"
+
+[update]
+[update.modrinth]
+mod-id = "BFENfScW"
+version = "besCdt3U"

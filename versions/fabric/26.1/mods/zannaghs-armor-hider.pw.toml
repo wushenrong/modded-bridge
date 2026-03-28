@@ -1,0 +1,13 @@
+name = "Armor Hider"
+filename = "armor-hider-fabric-0.8.22+mc-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GgG2my3y/versions/6Tq512m1/armor-hider-fabric-0.8.22%2Bmc-1.21.11.jar"
+hash-format = "sha512"
+hash = "e360b791a2101458f4a0d8ce5a6c28f5affa36cea2a8f08e8be95286163fbea474fd56a8b028e2492e8d176354364abc3aa601e5db0d57488f4f4b65833ed936"
+
+[update]
+[update.modrinth]
+mod-id = "GgG2my3y"
+version = "6Tq512m1"
