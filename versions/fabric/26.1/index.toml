@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b9020b06a810514b44fd7f046db85bddd7bf90e2b16455dac2e2dd5dce6bcea1"
+hash = "461b6c290e2a2b516ed7dde151271597d18db9575628a83803624ca0ac3834c7"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.json"
-hash = "0da592254eb6b28c1e31e231ab33f8176f10da40de7f6655040f3349daedceab"
+hash = "4396ed511ebda334aa946ca799b0248a7f805ae00aaaff440eb3ac79591cee79"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "225c4d26ae5d2345591ce23340cdaf9009a46a1fc46a7cb054795cd8403efe56"
+hash = "57537f96f4fb3b21696106700e6540aea4e389dc7952aaa6f6d523c49381f7de"
 metafile = true
 
 [[files]]
@@ -610,11 +610,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "c8797508817203139598e45c3249c08bef98d913082d3adb7ce07a6c55e8bdb5"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "82a7a2d7cf37f5ceab22bcdacfd3206ede5a69c30b4f567a3976293e2231d30d"
 metafile = true
 
 [[files]]

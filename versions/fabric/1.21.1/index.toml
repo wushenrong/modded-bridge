@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9f0cb8d84c117be61dfc869e74285fdb80aecbde6b75f4a340837d6871cb02e4"
+hash = "461b6c290e2a2b516ed7dde151271597d18db9575628a83803624ca0ac3834c7"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.toml"
-hash = "8ca19779b2bc846fd7a6a089a8d6d3a595805dad819a47edc2da0e24735006b7"
+hash = "b3ac63624a9e9fbde0d3a9457693a4d922af6e25420a9026ee646f39be29f1c0"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/bow-infinity-fix.pw.toml"
-hash = "dc746b9757660659da1dd54d27451c5c9a5e9c965c28c2741be9356154c40c9f"
+hash = "66d88f3565ac386ca5066464c0c9f24d4d36cefe860059943c6807fdff4b2a20"
 metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "a12a1645323572ac16951cb85ed9a457ec6afc1ac0c446ca4bc620bef35978a6"
+hash = "8e4a7b379a7bf59a434ef62a8d4f2fa0e57c9606f43ca4477ecf8d770265c5b1"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/cut-through.pw.toml"
-hash = "06ecf8909f6baf4ab229bad6e6490b79fa26be7263abc24ca3d3d50102f239eb"
+hash = "177daaf001a8ed771e725da1a5bde6112c3184971cf38e51a603cdd08f4446ab"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
-hash = "1852681477d0cb52003add920918eb6fea2fc697b816b0e2e17291c4dce31fb1"
+hash = "0db15f56207814686e16b3e33505d910e8294c2acf393762caba6ec004b7d61b"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "225c4d26ae5d2345591ce23340cdaf9009a46a1fc46a7cb054795cd8403efe56"
+hash = "1a5695764e8cddb0e243b122ff536d36d60765ba744b631b9ffe098dd4303f26"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
-hash = "3e0284ffb68f4a4f6a946a40d58e9cd49a711c22097781bde9fc747aa1bd0324"
+hash = "be3375c1f12ecfe83d71669083c37d7d8c28a22bcd9743f9f5143c504e54833a"
 metafile = true
 
 [[files]]
@@ -628,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "487495097475b59d277ee8268149f0dca03b725479521c3dd830a37163598c2e"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "6f1d61fd153ef2a1f1bf21e7460a20c73805c0c6f597957bccc4494984a877be"
 metafile = true
 
 [[files]]
@@ -677,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/squat-grow.pw.toml"
-hash = "50a95dabde03c01c8c4998a064e8159dedc8753163851fe0d4cc90abd588975a"
+hash = "6f9785ad27d445ff8cb37e887e6303a420b0a9067c7de3132d0249318a817ae8"
 metafile = true
 
 [[files]]
@@ -747,5 +742,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c56825ef0f02e351c103d3eaf3ff204f881361f6c14c075f56754406db77ae08"
+hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
 metafile = true
