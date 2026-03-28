@@ -1,2 +1,2 @@
-# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
-* -text
+# Set line endings to LF instead of CRLF
+* text=auto eol=lf

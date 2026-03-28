@@ -1,21 +1,46 @@
-MIT License
+alias e := export
+alias r := refresh
+alias u := update
 
-Copyright (c) 2026 Samuel Wu
+set windows-shell := ["powershell.exe", "-NoLogo", "-Command"]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+default:
+    @just --list
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+[private]
+[windows]
+_batchcmd cmd loader:
+    Get-ChildItem -Path versions\{{ if loader == "all" { "*\\*" } else { loader } }} -Directory | % { \
+      Set-Location $_.FullName; \
+      Write-Host "running {{ cmd }} in" versions\loader\$_; \
+      Invoke-Expression "{{ cmd }}"; \
+      Pop-Location; \
+    }
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+[linux]
+[macos]
+[private]
+_batchcmd cmd loader:
+    for d in versions/{{ if loader == "all" { "*" } else { loader } }}/*/; do \
+      pushd "$d" &> /dev/null; \
+      echo "running {{ cmd }} in $d..."; \
+      {{ cmd }}; \
+      popd &> /dev/null; \
+    done
+
+# all versions of <loader> (or "all") will be exported as a modrinth modpack
+[linux]
+[macos]
+export loader: && (_batchcmd "packwiz modrinth export; mv *.mrpack ../../../build/" loader)
+    -mkdir -p build/
+
+# all versions of <loader> (or "all") will be exported as a modrinth modpack
+[windows]
+export loader: && (_batchcmd "packwiz modrinth export; Move-Item -Force -Path *.mrpack -Destination ../../../build/" loader)
+    -New-Item -Force -Type Directory -Path build/
+
+# all versions of <loader> (or "all") will have pack.toml & index.toml refreshed
+refresh loader: && (_batchcmd "packwiz refresh" loader)
+
+# all versions of <loader> (or "all") will be updated
+update loader: && (_batchcmd "packwiz update --all" loader)
