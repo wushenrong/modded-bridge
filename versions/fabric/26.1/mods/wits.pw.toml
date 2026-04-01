@@ -1,13 +1,13 @@
 name = "WITS (What Is This Structure?)"
-filename = "wits-1.4.1+1.21.11-fabric.jar"
+filename = "wits-1.4.1+26.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AVo2esap/versions/Dvt1g4Zb/wits-1.4.1%2B1.21.11-fabric.jar"
+url = "https://cdn.modrinth.com/data/AVo2esap/versions/479njfLS/wits-1.4.1%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "a1a8e5ffa343897149a16ebf0c368b4bfd73da7b16089d94b0472bc2fcfd0427e1fa73e9b84a43471889ec017180e3cf93520c726aea94de83770d928a32362a"
+hash = "b12ab85501c4968638d6a7b9c86fcde96e25eedfaa6f65ed091551f89bf16480cbe34ce7e10d84a89e450425a9d0bb1838585b24ccceb285ebe9996e495850c0"
 
 [update]
 [update.modrinth]
 mod-id = "AVo2esap"
-version = "Dvt1g4Zb"
+version = "479njfLS"

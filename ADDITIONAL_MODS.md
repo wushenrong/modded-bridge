@@ -5,15 +5,10 @@ Lists of mods that I left out of the pack. See
 mods listed below. It also includes some resource packs and shaders that I
 liked.
 
-## Disable Crop Trampling
-
-Stop accidentally trample farmland. I do not have any mod recommendations here
-that provide good parity between current supported versions of Minecraft.
-Install one that supports the latest version of Minecraft and Fabric.
-
 ## [Distant Horizons](https://modrinth.com/project/uCdwusMi)
 
-Not in the pack because of the incompatibility with ReplayMod.
+For people who want a larger render distance without burning their computer.Not
+in the pack because of the incompatibility with ReplayMod.
 
 ## Record and Replay
 
@@ -21,6 +16,10 @@ For content creators who want record gameplay just in Minecraft. Not included
 because it's a bit out of scope, and ReplayMod is incompatible with Distant
 Horizons. Install [ReplayMod](https://modrinth.com/project/Nv2fQJo5) or
 [Flashback](https://modrinth.com/project/4das1Fjq), choose the one you like.
+
+## Disable Crop Trampling
+
+Stop accidentally trample farmland. Install one that supports Fabric.
 
 ## Maps, Teams, and Claims
 
@@ -41,9 +40,7 @@ own sets, they're not included as a base or optional in the pack.
 ## World Backups
 
 It's recommended to create backups of worlds in case of accidental world
-deletion/destruction. Install one that supports Fabric or
-[FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-3) to
-integrate with other FTB mods.
+deletion/destruction. Install one that supports Fabric.
 
 ## Vein Miners
 
@@ -52,10 +49,3 @@ considered a major change to gameplay. Install
 [VeinMiner](https://modrinth.com/project/OhduvhIc) or
 [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) to
 integrate with other FTB mods.
-
-## Graves/Tombs
-
-For people who do not want to enable keep inventory. It does add a block or
-item. And I do not have any mod recommendations here that provide good parity
-between current supported versions of Minecraft. Install one that supports the
-latest version of Minecraft and Fabric.

@@ -1,13 +1,13 @@
 name = "FlickerFix"
-filename = "flickerfix-1.21.1-fabric-6.1.0.jar"
+filename = "flickerfix-26.1-fabric-7.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KSyWOxT5/versions/kzzcQcuE/flickerfix-1.21.1-fabric-6.1.0.jar"
+url = "https://cdn.modrinth.com/data/KSyWOxT5/versions/RTxMdaLK/flickerfix-26.1-fabric-7.0.0.jar"
 hash-format = "sha512"
-hash = "c2c7889f212694424d7434299c00ad988bbeee688f31a43a0d891bdb85ad583d8f95393a4a2fc531c9c34c4e358a2c9bfd115a5bcd16dfcc09f4c97fa9fde8f1"
+hash = "e0a4d1c84ee783bf1f43b68899943a81144f22e4b3f2c08ee8a1e453737e165a972115eca3b272c07ed89015edb9436e35b954d944e6a7151146581c9c0a020a"
 
 [update]
 [update.modrinth]
 mod-id = "KSyWOxT5"
-version = "kzzcQcuE"
+version = "RTxMdaLK"

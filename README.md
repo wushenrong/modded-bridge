@@ -1,14 +1,17 @@
 # Modded Bridge
 
 Modded Bridge is a Minecraft modpack composed of performance, visual
-enhancement, quality of life, and gameplay features expected from modded
-Mincraft, e.g. FTB modpacks and inspirations, on top of vanilla. It's the bridge
-from vanilla to modded without any additional blocks, items, or mobs
-(except the way too many visual enhancement mods you might not need). Makes
-it great for beginners getting a feel of modded Minecraft.
+enhancements, quality of life, multiplayer, and gameplay features expected from
+modded Mincraft, e.g. FTB modpacks and inspirations, on top of vanilla. It's the
+bridge from vanilla to modded with minimal additional blocks, items, or mobs.
+Great for beginners getting a feel of modded Minecraft.
 
 Build on top of [Additive](https://skywardmc.org/additive/) and includes some
 mods and configurations from [Fabulously Optimized](https://download.fo/).
+
+This modpack includes what many vanilla players might consider to be major
+gameplay changes. Use Additive or Fabulously Optimized for a true vanilla
+experience.
 
 ## Installation
 

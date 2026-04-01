@@ -1,0 +1,13 @@
+name = "Gravestones"
+filename = "gravestones-1.3.0+1.21+A.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Heh3BbSv/versions/9VGoOn6p/gravestones-1.3.0%2B1.21%2BA.jar"
+hash-format = "sha512"
+hash = "aad721f8b1a0c997ea14f7099f953b2ad160d8fcb40437683407bf9bfa86bbd85d0b7cc1b294558119db480628531b90ae8f5de8a82156f2092e407b01fc8fa0"
+
+[update]
+[update.modrinth]
+mod-id = "Heh3BbSv"
+version = "9VGoOn6p"

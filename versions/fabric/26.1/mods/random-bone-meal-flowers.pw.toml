@@ -1,13 +1,13 @@
 name = "Random Bone Meal Flowers"
-filename = "randombonemealflowers-1.21.11-4.7.jar"
+filename = "randombonemealflowers-26.1.0-4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/17enPZMC/versions/xncSYvvy/randombonemealflowers-1.21.11-4.7.jar"
+url = "https://cdn.modrinth.com/data/17enPZMC/versions/8UeYqUFi/randombonemealflowers-26.1.0-4.7.jar"
 hash-format = "sha512"
-hash = "c8982f17ef27e4246377f3d400aef1f413dd86516681d5ef9f8c35e96d506e3472e24eb91a3b9deaabbfd7deb7e37ef30ec53b2637751fce352853f75c71fd0c"
+hash = "5e4c7a3592ca8b00bf3e9cd8458f8f779b837052ffdc0bf03a1d31f6479b035e61fb7a06b2055afbdd4462897dcc82bb0a98e0ec78ce77057cb91f1af59b0592"
 
 [update]
 [update.modrinth]
 mod-id = "17enPZMC"
-version = "xncSYvvy"
+version = "8UeYqUFi"

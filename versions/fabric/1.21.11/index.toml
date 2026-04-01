@@ -179,11 +179,6 @@ hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "a5f67311e64ea67e8097c1fdd4d20cf11e1c5236334b5becabad7dabdae975db"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
@@ -255,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
+hash = "b6be9ab228ce37dfd2f0f05364ca24ba143d86bac31e25b9f03ab7750f2fceb4"
 metafile = true
 
 [[files]]
@@ -275,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "928da415b4cc19a7c626339476775d2e11de0d33418817bac4744c34379db309"
+hash = "e43fda06d2c7e68de6ddf4b1b9866ffa5574870a86752cb5e5b70bce6c9511ae"
 metafile = true
 
 [[files]]
@@ -330,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "9efe63f3956dbede081d2bacbfcf1f92f2cdfbf259741173ecdfa73cfd3c9b29"
+hash = "7861a7fbed72b4b4aa035ec4daaf1dfd177b74f920a94d3bdd29c4682fa7a2c1"
 metafile = true
 
 [[files]]
@@ -395,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f1e08f4ad778199468cad1c1baaec2144197f020bb51db6f6c619ed0286fa7f5"
+hash = "3d89268498eef0599b21095bc78220d2c5fc4186c4f42129596ba5508492ad59"
 metafile = true
 
 [[files]]
@@ -549,8 +544,18 @@ hash = "3e1fa6022713505134e045b9713884cb235f3639ea12e7dc64f5f2c39520be85"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "4640480484b5ac2799e29f9abdbb665ec0a12f108f4267c9387b84a3be47aa72"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "0a2603701e630b6ed05854fb97b5eb2d866741cf57bf0c6ba27acffad83aa2ac"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
-hash = "d3c816d9ea8953ce447e21b4e0e3c7c909be2bbb5d03c33e68f6f5efb24dc392"
+hash = "db0b7b129a78486051d401bbe4ad5a4015aa47a3829f5f5fe4484b21c970ee17"
 metafile = true
 
 [[files]]
@@ -610,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2e1bb932b2f5eab24ca8829ce52ba5fd618d5929d751c5b1d38ecdd68f3212ac"
+hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
 metafile = true
 
 [[files]]
@@ -674,8 +679,18 @@ hash = "55e6f3c2e756c504561ac483a9bce2758fbfc7ae6e0f5100a5a3b31ee95b0bf2"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "f5862523110dc5abda04f78f9810e79fb81b0f4e827777ffc93df9fb991d00fe"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1550aedc52330f566a956212f8784baf76946d2e8398cb4e41988dca48dacd9f"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "e8089114bc681cc7fdf61a3e7f260da60b5417d815b070cb906b1d8acf4c475c"
 metafile = true
 
 [[files]]
@@ -685,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3f5679e5212d0cb5e6700b4d13001d435e60fb9151121e01f83d9f10d296eba5"
+hash = "d614525d2df34cdd07b0fdb5c774b72266ed4b4be55aceccef7ac5c7d66ae167"
 metafile = true
 
 [[files]]
@@ -700,12 +715,12 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "ee19ad5bf0e44c84edaf74baa20510b51798a7fe610bf92b3c1aa60c9baf1e76"
+hash = "aa6d1c952dc8b7b45ee683ac22dfe9f11c0f645bdfb12c5a5dfabe59446e6731"
 metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "e5ec1b319368c97f4adeee0861ebb020e9837f64fa0c42969f823a250ab7e6c7"
+hash = "8b19a57a09bc3ad9a95f73e7c212e1f519029d152552f68c2b539e7098630756"
 metafile = true
 
 [[files]]
@@ -715,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "8673f325eac5259469da0feff95f3770f21a4a5b405d573096c3ffe52684369b"
+hash = "3a9b9eaa8e4b1f0a666252156206da920adc31f4ddeabf6dd4232fe383b5e455"
 metafile = true
 
 [[files]]
