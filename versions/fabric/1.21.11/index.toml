@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "461b6c290e2a2b516ed7dde151271597d18db9575628a83803624ca0ac3834c7"
+hash = "d1a3348f5912e3a08b004b9c10de3985fb8d4ebde4f3636f0c8667f7c9f9a1b8"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.json"
-hash = "c13f2de75fe5b549e76709687500fd85d40998b40e05056bb04d62c4e24cfa82"
+hash = "28118167b13532d49c6d08d80fe4520d61184f69f5010fe57f8e2950141d180c"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -18,7 +18,7 @@ hash = "a3e6408e5d8eee27488b01aaf6a0bc428901de0ba803521d32cce892a051a770"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5bd8622a0abc0ca0207f8e499219ea690ced661d622e51f3b68ced2e68860b6e"
+hash = "5626cc0fa5378b9fabd295fb07b40eb1023ed91eb3c96e99d73bd32744dc8afb"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -57,6 +57,10 @@ file = "config/modpack_defaults/config/puzzle.json"
 hash = "d3726420ad2bffb66610126d9b43ee6f3863a77cb8b90fa6a4082fa040f050d3"
 
 [[files]]
+file = "config/modpack_defaults/config/squatgrow-common.json5"
+hash = "b232103021f26e3f7869b56ccf37f7beea9e92d6593fccb7556fdd68e5a631c8"
+
+[[files]]
 file = "config/modpack_defaults/config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
@@ -66,11 +70,11 @@ hash = "c8492e143aec477e997987533da5b9f901556cc2ad7410d6ec2193142601bf94"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "c54915d047c0e9308f112ca8089c59ac071db48f3f046af4d4e149db79aae656"
+hash = "a55fdba07658b9178bc784a6ab5246ac545edf7d6640b97f590110418b9c626a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fcfbde34c4d9f01f2ba1397f424060e204b6ea994ccb2394e86e4da33e02965c"
+hash = "d2d3b3714284fd2683c121d80bf9662289c9bb2df7f0a0c80ec741cf8fd4c9b8"
 metafile = true
 
 [[files]]
@@ -505,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
+hash = "a96d1b2bfb7e9aa08e5f7446b14f4d4253d89cc675bbc285dc8d0dc6095db312"
 metafile = true
 
 [[files]]

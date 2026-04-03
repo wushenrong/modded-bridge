@@ -1,7 +1,7 @@
 version:4671
 graphicsPreset:"custom"
 simulationDistance:8
-resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip"]
+resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]
 advancedItemTooltips:true
 telemetryOptInExtra:false
 key_key.amecs.toggle_auto_jump:key.keyboard.unknown

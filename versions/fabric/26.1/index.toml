@@ -6,7 +6,7 @@ hash = "461b6c290e2a2b516ed7dde151271597d18db9575628a83803624ca0ac3834c7"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.json"
-hash = "4396ed511ebda334aa946ca799b0248a7f805ae00aaaff440eb3ac79591cee79"
+hash = "8fae90f4fbd61cb493a0fc68f06445590c52d92a52ded80e9d652a707b9861f5"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -18,7 +18,7 @@ hash = "a3e6408e5d8eee27488b01aaf6a0bc428901de0ba803521d32cce892a051a770"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5bd8622a0abc0ca0207f8e499219ea690ced661d622e51f3b68ced2e68860b6e"
+hash = "5626cc0fa5378b9fabd295fb07b40eb1023ed91eb3c96e99d73bd32744dc8afb"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -61,6 +61,10 @@ file = "config/modpack_defaults/config/puzzle.json"
 hash = "d3726420ad2bffb66610126d9b43ee6f3863a77cb8b90fa6a4082fa040f050d3"
 
 [[files]]
+file = "config/modpack_defaults/config/squatgrow-common.json5"
+hash = "b232103021f26e3f7869b56ccf37f7beea9e92d6593fccb7556fdd68e5a631c8"
+
+[[files]]
 file = "config/modpack_defaults/config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
@@ -70,11 +74,11 @@ hash = "c8492e143aec477e997987533da5b9f901556cc2ad7410d6ec2193142601bf94"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "c130c69460132b88f49a31d1029578084b7713bef8611b885310f6518bd6b763"
+hash = "413ca58ae21643e879babd20c5a2bc9123d911e20b165f0701cee5fad1631044"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f4cfb5beb31a5e289bd3ab088fdd6729ebc8687baa58b7b75615f441be384037"
+hash = "8c8f44ed74ea93a496ac1d476ab71b59b0b15a780d5ab60e5559ef637105ee6d"
 metafile = true
 
 [[files]]
@@ -299,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9661d28e5c33a6873612be87fc3c865032b48b120daaa95d62dc371bae83edcc"
+hash = "584afbe823aec7afa13f8f96b08607c7cd369384cc72d5c22ebf78adbf88ed2d"
 metafile = true
 
 [[files]]
@@ -344,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "8eaa59aeec2a3c68ee33e1ecd635716f12c642766644040e04c551c22ebb7f90"
+hash = "ccf85a22cdd9f965cc6aa8dd97c5f5aac4d5b42427888a852af5874f8a345d87"
 metafile = true
 
 [[files]]
@@ -359,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
+hash = "055fdbf11f275477ac18fe88c53623fa2c104180808d10738a960ba4bf3bcffb"
 metafile = true
 
 [[files]]
@@ -384,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4d2890f8a51f95df8dc6685b46ba82ef51f376bffbab48c85bf3ad9a7745d36f"
+hash = "b1c579ff5ca6c819b53cbc8dd8d0407b0f1a243e4cd52bcc86ee6819475e3fbf"
 metafile = true
 
 [[files]]
@@ -394,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "48addaf6b08cb7ec596286308a34f31fc0eec38eb4fc258bd4b7520cd074e6a3"
+hash = "7d8e22325adf46478e59fc5e5ec0a5a7d7dbce8789e2ec55e2ecef88de5962b6"
 metafile = true
 
 [[files]]
@@ -509,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
+hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
 
 [[files]]
@@ -534,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/pickup-notifications.pw.toml"
-hash = "044924de72e8b06af4ec1df640a5a7ad3e764fd53d4d4b54c81797b2f08c7b91"
+hash = "75cbe5e796d3715e53d674c1d960bfea456bbcf86fe37e810bb5aa6cd97eef2d"
 metafile = true
 
 [[files]]
@@ -644,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "54bbe6316b586e4b7d2917bbbb867ba28aefa1f4bc4a0ddbc3c1408a30337154"
+hash = "f41c99330b25bd48c0d787cdb5ef2ecdc1924a5b30fa9023dd7c8f51d9cc19e9"
 metafile = true
 
 [[files]]
@@ -669,12 +673,12 @@ metafile = true
 
 [[files]]
 file = "mods/tag-tooltips.pw.toml"
-hash = "1eb89ec974cecb278e199625058b3e254bebee703b6af30939ac52769455b44b"
+hash = "6f17aec2b43b23daa262c078b84e68bd054e0e0720f21d5a78129a3653aab07e"
 metafile = true
 
 [[files]]
 file = "mods/tag-translations-for-jei.pw.toml"
-hash = "8676fae815e7c87cd7c5d0bd26c3baf673a2dc28b632eba0b1f43a11c198a90a"
+hash = "04c175ecb08f1ff2b3e400580b968dd18da7ccaf660bc693ca74836fb072da50"
 metafile = true
 
 [[files]]
@@ -729,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
+hash = "055e6a5ca54023619cbc1d0c91d4a102d4eb37981940dc3f8de62e6a3ecb3e86"
 metafile = true
 
 [[files]]

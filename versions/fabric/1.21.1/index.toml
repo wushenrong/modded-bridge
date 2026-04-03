@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6efe427a3ccbecf787b08e2d35c8e89dbe4f416fece8f76861fc1e3a9c4ee1b0"
+hash = "d1a3348f5912e3a08b004b9c10de3985fb8d4ebde4f3636f0c8667f7c9f9a1b8"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.toml"
-hash = "b3ac63624a9e9fbde0d3a9457693a4d922af6e25420a9026ee646f39be29f1c0"
+hash = "492a2d989cd2a582e8851d4118a003bd030a0b0ae450328f1eceb2f05babb109"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -22,7 +22,7 @@ hash = "a3e6408e5d8eee27488b01aaf6a0bc428901de0ba803521d32cce892a051a770"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5bd8622a0abc0ca0207f8e499219ea690ced661d622e51f3b68ced2e68860b6e"
+hash = "5626cc0fa5378b9fabd295fb07b40eb1023ed91eb3c96e99d73bd32744dc8afb"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -69,6 +69,10 @@ file = "config/modpack_defaults/config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
+file = "config/modpack_defaults/config/squatgrow-common.yaml"
+hash = "75f4e4037d3bd2f383e1d74d0180eec057a509934a0daf5282cfc1318c1865ab"
+
+[[files]]
 file = "config/modpack_defaults/config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
@@ -78,11 +82,11 @@ hash = "c8492e143aec477e997987533da5b9f901556cc2ad7410d6ec2193142601bf94"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "192479722c88842c9a0645656dc1d563c98ccbf13ef3bc6f2b350c782f5f4757"
+hash = "b031e9c170ea9e8cb0cbbf84b194c7a984d48c1c0d4b64772f2d3c8e5fbb53ae"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b83a2e1dea6cd91f35bcc4fcc1786d22e2ddcc7a9def7c4910b5dcf6552d4ba7"
+hash = "6673f89fd7dd77fe94bd3fc7c4e28661435b5b54ae2e7e5a5a6f54ad9f1cec54"
 metafile = true
 
 [[files]]
@@ -312,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "a42d6d03c6764f037181b023e0b4e3c5574fdda5f9b837d1ca753dfa4180e1d5"
 metafile = true
 
 [[files]]

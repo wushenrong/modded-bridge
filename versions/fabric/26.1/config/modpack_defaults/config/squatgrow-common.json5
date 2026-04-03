@@ -1,0 +1,13 @@
+{
+	"ignoreList": [
+		"minecraft:big_dripleaf",
+    "minecraft:big_dripleaf_stem",
+		"minecraft:bush",
+		"minecraft:crimson_roots",
+		"minecraft:firefly_bush",
+		"minecraft:pink_petals",
+		"minecraft:rose_bush",
+		"minecraft:short_dry_grass",
+		"minecraft:wildflowers"
+	]
+}

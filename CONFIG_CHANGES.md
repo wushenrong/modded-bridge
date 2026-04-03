@@ -15,6 +15,19 @@ Here are additional default configuration changes applied on top of
     -   Rebind `Simple Voice Chat: Mute Microphone` from <kbd>M</kbd> to
         <kbd>Control + M</kbd>
 
+-   [Squat Growth](https://modrinth.com/project/b5JMdB5V)
+
+    -   Disable squat growth for the following plants:
+
+        - Dripleaf
+        - Bush
+        - Crimson Root
+        - Firefly Bush
+        - Pink Petal
+        - Rose Bush
+        - Short Dry Grass
+        - Wild Flower
+
 ## Changes from Fabulously Optimized
 
 See <https://wiki.download.fo/changed-options> for additional options you might
@@ -28,8 +41,8 @@ want to apply.
     - [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)
     - [Sodium Shadowy Path Blocks](https://modrinth.com/project/EIa1eiMm)
 
--   Add [Translations for Sodium](https://modrinth.com/project/yfDziwn1) to the
-    resource pack list
+-   Add [Translations for Sodium](https://modrinth.com/project/yfDziwn1) and
+    Continuity to the resource pack list
 
 -   Set `version` to the current configuration version of Minecraft.
 

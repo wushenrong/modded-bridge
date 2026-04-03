@@ -3,7 +3,8 @@
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to
+and this project adheres to [Calendar Versioning](https://calver.org/).
+Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
@@ -16,7 +17,10 @@ and this project adheres to
 
 ### Changed
 
-- Updated all mods to their latest version
+- Updated all mods to their latest version.
+- Update and trim the crash assistant configuration.
+- Add Continuity to the resource pack list.
+- Ignored additional plants that act like grass.
 
 ### Removed
 
