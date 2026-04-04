@@ -1,13 +1,13 @@
 name = "I'm Fast"
-filename = "imfast-FABRIC-1.21.11-1.0.3.jar"
+filename = "imfast-FABRIC-26.1-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/JJVpGzIA/imfast-FABRIC-1.21.11-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/o6UyK44l/imfast-FABRIC-26.1-1.0.3.jar"
 hash-format = "sha512"
-hash = "b48ff333a3a6340cca9f9793551b33b22cbe1f20e46c6467b0d13585edd4e85c09f869615f9367afd899f0b58ca0002ad0179c3d0c3ab5012e8833e86bd74471"
+hash = "c8c3e646667a174a3b6a06346d9b69394982cfbae0f20cd345a39a62d154c9555bf0822e944d08f6fb36f837c5fee44a33d9ff047000d67f9f26b9219e2ec6fc"
 
 [update]
 [update.modrinth]
 mod-id = "PaUMOeP0"
-version = "JJVpGzIA"
+version = "o6UyK44l"

@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "8a315d6c8c78a7ed04b61739f5bb33ce0dfa1c632048d2f36345ac5c9aa18a73"
+hash = "1c549c81307f4109464c6d6ae2513c396627d08e3fb72db3cee908e5afa09dd5"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a5f056e7c75be2ee7290e72aa8ffd880f7e130e559d02b0395a0a3aabf413000"
+hash = "d3e9d79aae0dc39496f96fb35b06d21afcfde6da5a0bc7cf9f17a99c705a978e"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "bac603aa8f56afce8e06daac2a3038fece96c232d9863b0714eeb45f625a5428"
+hash = "52c069c8b712309a60659262c3df40aec3669d426846b627af54dc648e5ced23"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "983459bc3e8e12b75b8d62ec26744d23d4ea5088b55ad443446531f794b360ca"
+hash = "29e174a66392e30d91b6db8a2ed5f7fdcac303e547a10689ef8f3fca29740496"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "5ce36db40f733b8e6f61f380fc7daa43bc9503f8b9d2ba13afddac9c59927eb9"
+hash = "1703d50794bf78b7e4d0023ed14802b272624755dae78b62229fafd90c906617"
 metafile = true
 
 [[files]]
@@ -761,5 +761,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
+hash = "2fde209b2bcb8713888b4fbe3b5a4e2faff44f7cc42831bcdb4f0b30cad0b650"
 metafile = true

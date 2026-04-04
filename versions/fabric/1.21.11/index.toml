@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "e68b8b318f9401d05a6c6e1451d81436b13265eb719c2562c2756247eb3b42b0"
+hash = "8e72bc8814abbb237873d6fac60159325ca637957ed1f30b8788394f53a97920"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "945c1e564cd45e93b12cdfa4580e2e6da85bce7441dbc961e93af74b2e2775e2"
+hash = "17080959844b52f0ac3dc2f213e329fc2d74b2954bb4a1643855c8a828742734"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "6adcf5a8b0e7cced7310a8d10455c2cb97e877172064cf015e10d77cd001da00"
+hash = "5cfb7ce2aca00e572724b3fff7a80846e9ff8db304a6f143bd7414e8de071d08"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
+hash = "092ebf2a18d3f4ebf3d95d2efb9282b0fe13673eff1d20e092fb22345785e3d1"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "aa6d1c952dc8b7b45ee683ac22dfe9f11c0f645bdfb12c5a5dfabe59446e6731"
+hash = "79b4a47e8749d827857bde252c69986b2b8ca2d1aa76f87be6ebdb5ff0687025"
 metafile = true
 
 [[files]]
@@ -739,5 +739,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
+hash = "2fde209b2bcb8713888b4fbe3b5a4e2faff44f7cc42831bcdb4f0b30cad0b650"
 metafile = true
