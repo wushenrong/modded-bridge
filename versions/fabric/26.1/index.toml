@@ -62,7 +62,7 @@ hash = "d3726420ad2bffb66610126d9b43ee6f3863a77cb8b90fa6a4082fa040f050d3"
 
 [[files]]
 file = "config/modpack_defaults/config/squatgrow-common.json5"
-hash = "b232103021f26e3f7869b56ccf37f7beea9e92d6593fccb7556fdd68e5a631c8"
+hash = "2583381242cae6c1f2f1fe5e5b5c9a45f84cfbb3748b53ce351ea643f49f6890"
 
 [[files]]
 file = "config/modpack_defaults/config/vmp.properties"

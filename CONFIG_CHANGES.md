@@ -19,13 +19,15 @@ Here are additional default configuration changes applied on top of
 
     -   Disable squat growth for the following plants:
 
-        - Dripleaf
         - Bush
         - Crimson Root
+        - Dripleaf
+        - Fern
         - Firefly Bush
         - Pink Petal
         - Rose Bush
         - Short Dry Grass
+        - Sunflower
         - Wild Flower
 
 ## Changes from Fabulously Optimized
