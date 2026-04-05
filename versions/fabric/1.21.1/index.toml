@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "52c069c8b712309a60659262c3df40aec3669d426846b627af54dc648e5ced23"
+hash = "bdfca5916d70670e18190234ad4540a87591d8db25584d7afbcb300c1d72a823"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "1703d50794bf78b7e4d0023ed14802b272624755dae78b62229fafd90c906617"
+hash = "09b8af10cb34f6608b70a8261065edac7bd6bf7fdfef313ececdd3a1a17cfbd8"
 metafile = true
 
 [[files]]

@@ -7,7 +7,9 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [26.1] - 2026-04-05
+
+Switched to Calendar Versioning.
 
 ### Added
 
