@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+hash = "6c74606e0365395dad900969404d20c6a2bda088f5d667f3f478e18866c400f5"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e80bc4313349f61ba5ca3c166581cbd7116a6367a9e9e02916bcee4874875aa9"
+hash = "e1d60b080304529caad5aa64a86e466ecfa3be33846fd7092e78df4a1e98c7b9"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "63df182532913eea2627f6486a7ea292f55ddf27dba55a4bc25911f32d30dce5"
+hash = "44b098ffab2f728d5a50f33aee186c89a15b120aaa4be327c729f491ef90379e"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "bf1bcfbf0bd7cc51c5847a0ad08934cba8abb78c80274ef88f79c5fc97d8dde6"
+hash = "b32d3910b3e0e4e29826af60ba4b4b22087c8e10a710595b7b5fa68263e1471d"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "734d064d94f184b42c5c9fe8c9a4dc01a5a54ce9c9a7865d974aa0ac809d04b8"
+hash = "ea277b3cce7bf89989ae8d0ad8c4e0dc0c286ee6ea2e23b67a8f8b0a242a988d"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumono_core.pw.toml"
-hash = "51b6d3974f802c010ddfc1c5cff7c991289b7b412c8a17fc0480a974e14f0c7e"
+hash = "9be080be11214e809cb69d400e69ccd20f535835c02acfe49aed61dfecb2c619"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "b6bda8317d9911686487decf305e8addb2eb415fe9df2428d7fb34bc324cc6b6"
+hash = "4421d0ae5d9063f25842ef3f5845932aa37611df15c3a3b45f8e33dcca35455e"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "29e174a66392e30d91b6db8a2ed5f7fdcac303e547a10689ef8f3fca29740496"
+hash = "fb6eb6b6ed51712433c8f8e6e49ae3743e2e172baac5878deb50add8fdfa2b11"
 metafile = true
 
 [[files]]
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "4a6eb4b3bcff630a3f8ceec7602204d723566aa3742170dc848658978d11e395"
+hash = "c9207c4e97b223521d996ddfa7da8e4a289596caefb205a75077a72ab700719d"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "09b8af10cb34f6608b70a8261065edac7bd6bf7fdfef313ececdd3a1a17cfbd8"
+hash = "78d7a422fd31955225248b09dfbde047480ca3a9d41e4b3d99790b60643b9dd3"
 metafile = true
 
 [[files]]
@@ -761,5 +761,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2fde209b2bcb8713888b4fbe3b5a4e2faff44f7cc42831bcdb4f0b30cad0b650"
+hash = "f598f0bd6f2c25bd1b5cdc8c31a50dc4e6ac51492b0665322dc70721307aa746"
 metafile = true
