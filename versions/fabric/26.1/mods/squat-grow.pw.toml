@@ -1,13 +1,13 @@
 name = "Squat Grow"
-filename = "squatgrow-fabric-26.1.1.1.jar"
+filename = "squatgrow-fabric-26.1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b5JMdB5V/versions/vbfBj91S/squatgrow-fabric-26.1.1.1.jar"
+url = "https://cdn.modrinth.com/data/b5JMdB5V/versions/9BhTHgD8/squatgrow-fabric-26.1.2.1.jar"
 hash-format = "sha512"
-hash = "df7668efc5df89782f0c76b865767475ac52330a353088d1e0eb165590a76af59e864f16a4f3c7f830e6a6f88b79ff15f8227052a7025943eb572264398743d7"
+hash = "cf5b7ea41937fc673b042c7228544f646a3af05167a0a8c5c76df4d48224c079558e719758e376f9eb9c31f3b5263341ac6accfdfb8760646ca9dfcb65476fe1"
 
 [update]
 [update.modrinth]
 mod-id = "b5JMdB5V"
-version = "vbfBj91S"
+version = "9BhTHgD8"

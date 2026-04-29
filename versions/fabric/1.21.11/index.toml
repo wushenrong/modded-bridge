@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "8e72bc8814abbb237873d6fac60159325ca637957ed1f30b8788394f53a97920"
+hash = "1c9e36d934bc03d1775894a147018ec7225d8981323e26837415781aabc7d3ac"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
+hash = "1a94f1c48e896504687dbefb5969ad4749c9e406a7ce19eba8f58f41b458d145"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "777ba6f5f1ea6e8bde6d1ed1ede9c8097e43f92c9759ea48ac43070f6a952ab8"
+hash = "a3dbb9706ae30bfe8637d13117dc453784ba5fc7e6747ff9820a2d1aab0ff2c2"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "9032e90c0ad8652b7cb8982b3a9e4e6d9814e2c829afe6a94b087c47c606dd16"
+hash = "57f15cd128cc3e1d27166e6046d2716615fb585cec4aeba101823068343cdfed"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "59a59259641373a88c79ce6200fbb5c5ed503b24b920cfe09293b3499e1107f4"
+hash = "657f9c3b7c6c8fe77114e88c8233ec51038f2450864580e0c4fc1844dc63e213"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e43fda06d2c7e68de6ddf4b1b9866ffa5574870a86752cb5e5b70bce6c9511ae"
+hash = "b8216791d2cda16256bfc049c9492476f0ceacf4c2c2333208dbb9350a8648ee"
 metafile = true
 
 [[files]]
@@ -284,12 +284,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "5c54f35f81fc74beac918d2656ce0e84dc91f957c401b382d598a17d5fbf82dc"
+hash = "b6beeef9bfbd950110e02332b11423d3754ea0ed2ac563cde20d4c7c1851be86"
 metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "b5c07339bc334ddfe27120580cca09d71541a2f8230251a85284807ff0688a4c"
+hash = "3ef1957f63423e0b4ee65632307d6a729adc5d503dadb6470527c35c15df0191"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
+hash = "6669f33967bd24895a21476c1701d4932ae14a8516d318d9266e0d42eb38ee60"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "7861a7fbed72b4b4aa035ec4daaf1dfd177b74f920a94d3bdd29c4682fa7a2c1"
+hash = "104697c7636a5fbe134057353bb99910decd94569395c410969e2dcfa8c56d02"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b7b5bbf825041cef4b95e357f3e7594042f6e1e76a169ec3782cf4d8f4a78467"
+hash = "9e6a3fb54ebb13ea95ced681d270cfa83134e95bb7111de140208db7160fffa7"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "675a2639ef5db8927266ada71c1eb59e81cf6979a894f54904b04c071821666b"
+hash = "3d7da5cb3a55ee336a593e73c1a1222bc6493a9cc16e319bb2d9e0a76de8ea07"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "58e348bf5ed0c9867339046522042c351b1630ccbfeb15412d938bacfb84b054"
+hash = "50b89f1bdbcbae7bfb7b660a797a19a946b311a4764a78bd6ac289593aaaa4b9"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "3e1fa6022713505134e045b9713884cb235f3639ea12e7dc64f5f2c39520be85"
+hash = "71295f65a028ab70a8df465f48b6f0e601d14e47145e29f687de47cfe353bee0"
 metafile = true
 
 [[files]]
@@ -554,12 +554,12 @@ metafile = true
 
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
-hash = "0a2603701e630b6ed05854fb97b5eb2d866741cf57bf0c6ba27acffad83aa2ac"
+hash = "19cd90c19aa96566d628bdcd620cb0e5d780d4947af66686b8e74467784cc800"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4fcd0df0da0348ce26e94e8bc01209725508cfc2ac4f641831cee72bcfef68ee"
+hash = "56a06628d3f473732123fc3e7c2141473ff401b3b67e6f7f97cb83ff58136132"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "6da7ed3f110fa22371189e8164f2e2c97578b1798c871643da1c5e5e3b04a4c7"
+hash = "fc93ffab2817533b4bbbc8ac3e621097b7058f4a3dd72b7b3605034173fa04fd"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "ed1ff73055440ca8d1d2de6d124a39fc8b0e3b9083329348b0097e71366f494c"
+hash = "5dea2a47148c5670036ccc0242c83289c2aadfa9e19c5e2302f7527daa3055c6"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "db4d3def114d5af2e7df577d93173b5ed8f9e1ed3769486679c4086fdcc08070"
+hash = "667a9c5628e469e7fdb760df8d979c169b91943bcb1ef50c38c311e5075d3846"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "505ae34c61c61b1c6b410aa04e5241f1720697c5ec31486433c97ae837c24439"
+hash = "80111183de04b37f8867b93a8575980f9af17fab2799d5f0f25c8ddbd6c049d5"
 metafile = true
 
 [[files]]
@@ -734,10 +734,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "3a9b9eaa8e4b1f0a666252156206da920adc31f4ddeabf6dd4232fe383b5e455"
+hash = "0e95aed9eee0e82caf4b7cbaf29b6862a4296adcaca5aab306e208e1bb6b0fe1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f598f0bd6f2c25bd1b5cdc8c31a50dc4e6ac51492b0665322dc70721307aa746"
+hash = "955db3e6102ddad4d5d9d242c9ebd0632e6f6a8d11c766bbffad82202a06b1f2"
 metafile = true
