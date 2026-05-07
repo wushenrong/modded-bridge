@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4ad2380d787eb6ccf4d88e26d646b459fd95b31d76a99f346b60d6dfc7fdc398"
+hash = "a1139bfcd52a1420964ffa39b12446851c218090687683fdf7016cea1c32369c"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
@@ -226,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "b90fe4645e7decd72da2504c3c95f86d57c5e7bc2c93015bde25991e06b91df9"
+hash = "4af89d61fe515cbb48776bb1fb9e665cee66f1ebd6f25640ba18234413d54f5d"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e1d60b080304529caad5aa64a86e466ecfa3be33846fd7092e78df4a1e98c7b9"
+hash = "cda8ddd6c456dae08af04e50d71eb21f06a90bea7e2cbb69358f9efa8bf16dc4"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "d5bd5b2083fec2916f222a7ba6ec1223c6c5e1aed441ed9f7a83415ccaa7a954"
+hash = "f4066e37347e2039714b6082ac2c2e0abf6513448d127fb5f81b1d109216a450"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "376c373dfc05078485dc5863bd4342750df23fdd4fa14fb65920be7469e03d14"
+hash = "f8eb8da73b0b19bee60bdbb3e82e14280e23863c83c8b815711a996812a177e5"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "3549ebf4ab5b52f06b9655907bcf61963a600fe03946d9bb5b697db80b509f4e"
+hash = "4a857daa8b136b3f5c9584dbb25509b7ebf11a034daed26c10d0a057526469d3"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "1a5695764e8cddb0e243b122ff536d36d60765ba744b631b9ffe098dd4303f26"
+hash = "5e9851dbc57baf5c44190662838ba15248a29238de6e070d959d8e48fe144005"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
+hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "446414707233e16ccd3f3a6b3f9a099f53921fd3d16a56fd4af674da0ea49110"
+hash = "2d59c569273082f4ec1e8f2164f1f3e8ef81bd7617347f1903c8ac6b17af725a"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fb6eb6b6ed51712433c8f8e6e49ae3743e2e172baac5878deb50add8fdfa2b11"
+hash = "22f24722ee27494ff0a78c95496632f2672bcfefbc1e291a1965022374f5d6ae"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "40c60c458184ab9d15fdcc4c610607eca60a1557bbf484fad2942a803d75e0ec"
+hash = "88f40667af06d2363fed1a5fcae1c6d253d1b77dcb84a6720103ecca1a67af01"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "79dd02626c1dde4bc8312e4bdaa14379c05c0db396afacf69b8fb4f68a7c0923"
+hash = "72a14c84a81e11721944a80f3d3ca909ebf0342d3e6212796f341d920511056e"
 metafile = true
 
 [[files]]
@@ -756,10 +756,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0e95aed9eee0e82caf4b7cbaf29b6862a4296adcaca5aab306e208e1bb6b0fe1"
+hash = "9eb00a94aff6fd846c107580fed2882d6a9bf3dde3e728481483b8d23cca0ef8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "955db3e6102ddad4d5d9d242c9ebd0632e6f6a8d11c766bbffad82202a06b1f2"
+hash = "4b1ec928a72e9e517e59c2d201eb3b9e628f5ad68a5fc5b48d60d958a87aa162"
 metafile = true

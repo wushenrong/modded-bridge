@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a3dbb9706ae30bfe8637d13117dc453784ba5fc7e6747ff9820a2d1aab0ff2c2"
+hash = "cff7e3b271e89b0dc9d306fcb2e4f01e2a93f52941dcad7727a85d2ac8fc1d24"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2ec044895c0c5d16b0c5e441212486dc6db3bd6ed6b61250f071d51ce7081036"
+hash = "8f8efa9811c1cf8f339d02a8fa63a7e538740c76c8f6910ec0a979e890e77dbb"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "3ef1957f63423e0b4ee65632307d6a729adc5d503dadb6470527c35c15df0191"
+hash = "cb512fb560b426a617ff410ad37919c2dbc10e0f2bf1219916e0b30c99188f2d"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9e6a3fb54ebb13ea95ced681d270cfa83134e95bb7111de140208db7160fffa7"
+hash = "ae4df7339a87050b5dd04597cf5c83fd4ffe038a7817ccf9a0b22a2245b5cf94"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "ee1e1c01d6ee07eed1502d0bf20c89c38bddfd777a2a58e2e7d09f623f36c076"
+hash = "49c9c961d38bc2447708fde546335cd699bd5c2a21dab3b18b7c82d53a4572ff"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
+hash = "1a8d8865ba726baf4f953f30737257d78a7c3529795f0b76fa67b90ab5038555"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2eecfde12159410aa97c09f4010cd18229460c0442ceeeb162b8eeb7fa5ffae4"
+hash = "dd7d0af1d65539d7e884e88d822b6884bc1f2989ac5694420096a41c29ce53e5"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
+hash = "69bfe15c54b432a2ac2c791a71842d0fe0ea2dd7f84e59324cc4c76168b85a06"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "80111183de04b37f8867b93a8575980f9af17fab2799d5f0f25c8ddbd6c049d5"
+hash = "aa5b3af64c717559c2409af700de7740bb12a1c688ebdf270b08f944b0614c0d"
 metafile = true
 
 [[files]]
@@ -734,10 +734,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0e95aed9eee0e82caf4b7cbaf29b6862a4296adcaca5aab306e208e1bb6b0fe1"
+hash = "9eb00a94aff6fd846c107580fed2882d6a9bf3dde3e728481483b8d23cca0ef8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "955db3e6102ddad4d5d9d242c9ebd0632e6f6a8d11c766bbffad82202a06b1f2"
+hash = "4b1ec928a72e9e517e59c2d201eb3b9e628f5ad68a5fc5b48d60d958a87aa162"
 metafile = true
