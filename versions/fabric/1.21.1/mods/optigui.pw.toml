@@ -11,3 +11,6 @@ hash = "c2b3f40af056ab93216c866f64c7376e1d1ddce8897f69a6042afea45ae9f108909f19a4
 [update.modrinth]
 mod-id = "JuksLGBQ"
 version = "npnKNaoI"
+
+[option]
+optional = true

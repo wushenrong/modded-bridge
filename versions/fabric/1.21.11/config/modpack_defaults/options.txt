@@ -1,13 +1,4 @@
-version:4671
-graphicsPreset:"custom"
 simulationDistance:8
-resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]
 advancedItemTooltips:true
 telemetryOptInExtra:false
-key_key.amecs.toggle_auto_jump:key.keyboard.unknown
-key_key.optigui.inspect:key.keyboard.unknown
-key_key.renderscale.options:key.keyboard.unknown
-key_zoomify.key.zoom.secondary:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown

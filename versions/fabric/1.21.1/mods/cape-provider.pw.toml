@@ -11,3 +11,6 @@ hash = "6fd102c3a13cde6e64f6d7d1305befbe99cd5fc2837b752e625cba405a59a77c00843293
 [update.modrinth]
 mod-id = "orXAsira"
 version = "5Ov3WVg8"
+
+[option]
+optional = true

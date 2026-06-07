@@ -11,3 +11,6 @@ hash = "968f7196f88e795502a2c7f9ba2beca7dbcaf52d86a96bf0d4d701c7bf50613c673ccd5e
 [update.modrinth]
 mod-id = "9mtu0sUO"
 version = "E3Ei5xUe"
+
+[option]
+optional = true

@@ -4,41 +4,47 @@ Modded Bridge is a Minecraft modpack composed of performance, visual
 enhancements, quality of life, multiplayer, and gameplay features expected from
 modded Mincraft, e.g. FTB modpacks and inspirations, on top of vanilla. It's the
 bridge from vanilla to modded with minimal additional blocks, items, or mobs.
-Great for beginners getting a feel of modded Minecraft.
+Great for beginners getting a feel of modded Minecraft or veterans wanting to
+play vanilla but can't live without the QoL features of modded Minecraft.
 
-Build on top of [Additive](https://skywardmc.org/additive/) and includes some
+Build on top of [Additive](https://skywardmc.org/additive/)
+(and [Adrenaline](https://skywardmc.org/adrenaline)) and includes some
 mods and configurations from [Fabulously Optimized](https://download.fo/).
-
-This modpack includes what many vanilla players might consider to be major
-gameplay changes. Use Additive or Fabulously Optimized for a true vanilla
-experience.
 
 ## Installation
 
 Use your favorite launcher to download
 [the pack from Modrinth](https://modrindth.com/modpack/modded-bridge).
 [Modrinth App](https://modrinth.com/app) or
-[Prism Launcher](https://prismlauncher.org/) is recommended.
+[Prism Launcher](https://prismlauncher.org/) is recommended. For servers, use
+[mrpack-install](https://github.com/nothub/mrpack-install).
 
 Read Sodium's
 [Driver Compatibility guide](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility)
 before installing this modpack. Read Additive's
 [post-installation guide](https://skywardmc.org/additive/post-install/) to learn
-about gain more performance. See
-[Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/CONFIG_CHANGES.md)
-for modifications to the default settings. See
-[Additional Mods](https://github.com/wushenrong/modded-bridge/blob/main/ADDITIONAL_MODS.md)
-that you might want to install as it's not included in the pack. Also, check the
-installed mod list for mods you want to disable/remove.
+about gain more performance.
+
+If you are installing
+[optional mods](https://github.com/wushenrong/modded-bridge/blob/main/docs/MODS.md#optional-mods)
+on a server, be sure to also install/enable those mods and their dependencies on
+the client if it's recommended.
+
+See
+[Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/docs/CONFIG_CHANGES.md)
+for modifications to the default settings and options you might want to apply.
+See
+[Additional Mods](https://github.com/wushenrong/modded-bridge/blob/main/docs/ADDITIONAL_MODS.md)
+for mods that you might want to install but is not included in the pack.
 
 ## Contributing
 
 Suggestions are welcomed, especially mod replacements to reduce dependencies and
 towards mods that are open source. If there are any incompatibility between mods
-in this pack, then please create an issue to report the incompatibility so we
-can replace the mod. **Do not report issues related to this pack to SkywardMC**.
-The best way to check conflicting mods is to run instances of Additive and
-Adrenaline with the suspected incompatible mod.
+in this pack, then please create an issue begin the mod replacement process.
+**Do not report any issues related to this pack to SkywardMC**. The best way to
+check conflicting mods is to run instances of Additive and Adrenaline with the
+suspected incompatible mod.
 
 When opening [issues](https://github.com/wushenrong/modded-bridge/issues), be
 sure to include necessary information like your hardware/software

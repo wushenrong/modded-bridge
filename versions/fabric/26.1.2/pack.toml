@@ -1,0 +1,13 @@
+name = "Modded Bridge"
+author = "Samuel Wu"
+version = "26.2+mc26.1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5f88cba77e6826d98715f3cd4b85bfe83517d8826312fb1c2a3d492d32d6806f"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"

@@ -11,3 +11,6 @@ hash = "d8cba8839c2ed329f32f63978e431a75b4e72e506282cf49d151a43302915524c50edbd2
 [update.modrinth]
 mod-id = "PRN43VSY"
 version = "LHBm6fEV"
+
+[option]
+optional = true

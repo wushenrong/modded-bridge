@@ -4,7 +4,7 @@ formulation_type = "GITHUB"
 upload_to = "mclo.gs"
 
 [text]
-support_name = "Modded Bridge GitHub repository"
+support_name = "Modded Bridge GitHub Repository"
 modpack_name = "Modded Bridge"
 
 [modpack_modlist]

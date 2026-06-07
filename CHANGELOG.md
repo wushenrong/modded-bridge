@@ -7,6 +7,51 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [26.2] - Unreleased
+
+Reorganized and marked visual and audio enhancements and multiplayer mods as
+optional. See the mod list for mods that were made optional.
+
+Missing mods for version 26.1.2:
+
+-   Default Mods
+    - Auth Me
+    - Durability Tooltips
+    - Fix Keyboard on Linux
+    - FlickerFix
+    - Just Enough Breeding
+    - Just Enough Resources
+
+-   Optional Mods
+    - Jump Over Fences
+    - Polytone
+    - Emoji Type
+
+### Added
+
+- No Chat Restrictions
+- Particular Patches for version 1.21.1
+- Skin Restorer
+
+### Changed
+
+- All visual and audio enhancements and multiplayer mods as optional
+- Animatica to Animatica Refabricated for versions 1.21.11 and later
+- e4mc to e4all
+- macOS-Input-Fix to macOS Input Fixes
+- More Chat History to Chat Patches
+- Random Bone Meal Flowers to Universal Bone Meal
+
+### Removed
+
+- Unnecessary options
+- Default keybinds
+- Better Compatibility Checker
+- Emote Craft
+- Gravestones
+- Jade Modded Entities
+- Load My F***ing Tags
+
 ## [26.1] - 2026-04-05
 
 Switched to Calendar Versioning.

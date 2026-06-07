@@ -11,3 +11,6 @@ hash = "c83cc9ed96b988f465555af91b7ee1374514f0a214f840e5dd6de8ffe827560aab137eed
 [update.modrinth]
 mod-id = "4HeIHvIP"
 version = "dp0CUIrm"
+
+[option]
+optional = true

@@ -11,3 +11,6 @@ hash = "66f22400d9ea8d68c1709b87c11bce372d2d1e1efe94abf9431607e9437c0a90131eb7d6
 [update.modrinth]
 mod-id = "BFENfScW"
 version = "WxQ2Q6vk"
+
+[option]
+optional = true

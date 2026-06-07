@@ -11,3 +11,6 @@ hash = "f63abcc3b4b74576822f3bd4957737a2dd5c45c3717b3803e285708cf8ff3e5b6661a16c
 [update.modrinth]
 mod-id = "b5JMdB5V"
 version = "RnVEtcol"
+
+[option]
+optional = true
