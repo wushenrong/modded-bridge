@@ -7,12 +7,9 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [26.2] - Unreleased
+## [26.2] - 2026-06-08
 
-Reorganized and marked visual and audio enhancements and multiplayer mods as
-optional. See the mod list for mods that were made optional.
-
-Missing mods for version 26.1.2:
+Adds beta support for version 26.1.x, but expect missing features/mods:
 
 -   Default Mods
     - Durability Tooltips
@@ -24,9 +21,11 @@ Missing mods for version 26.1.2:
     - Polytone
     - Emoji Type
 
+Reorganized and marked visual and audio enhancements and multiplayer mods as
+optional. See the mod list for mods that were made optional.
+
 ### Added
 
-- Advancement Plaques
 - Crops Love Rain
 - Distant Horizons
 - Falling Leaves
