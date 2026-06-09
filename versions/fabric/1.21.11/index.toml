@@ -75,6 +75,11 @@ hash = "36c1dee65c1185e9c7cf68f1a05bf9c418f4a2e5d49d75744fbe212a723ff3ba"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "4bb69f822fe19c03794f5a637d94f475616eadfe0273f99709d06e3c7996060d"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "298a04fd1b35711ef80dc9455b089fd54ebd3dc3903ff42b7e5924aff628e98a"
 metafile = true
@@ -210,6 +215,11 @@ hash = "8f8efa9811c1cf8f339d02a8fa63a7e538740c76c8f6910ec0a979e890e77dbb"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "aad327907216ddfb38a1e92ad69e88750d75c62f1870d9f075f6daceb64cd061"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
@@ -230,6 +240,11 @@ hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "83c2d5350d143bd75d35e7a2be2e291927d77341856adca5f8476278349ee864"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "584c4c1c6f904156678e5eda999e959ca37df894dbb720b407993e01acd3eb58"
 metafile = true
@@ -246,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "9e7f8ba1a2fec8ffbf5a8eca800b947b3f29a3eea5f30ba73ce7c9ca59b5a3f6"
+hash = "a98dd85fb0adc9298782f76fdb828332a1c45e0b9f1af8eb6174f8d86a1a3e9a"
 metafile = true
 
 [[files]]
@@ -300,6 +315,11 @@ hash = "fcdaaad3ac86edfe8b2dd506b9e1303c70636251fc275f21f7a4a2efa324a8e8"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "cf8776787267bcaf9255bac1d171f77bedd845ffebcaf58002fc143bab65a94e"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "61b1405a8eaee1ba39a2278aeb01f893adaa19933256d17533457e09a53daf82"
 metafile = true
@@ -322,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "9cd51a7627c3e734135aa4c3e5780e42e04ec5b5751df25f4f48a8a774c3628b"
 metafile = true
 
 [[files]]
@@ -435,6 +460,11 @@ hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "d796898b139a69fbf2a5284c6317641460809caebf9997e3eba00cea2a59da1b"
+metafile = true
+
+[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
 metafile = true
@@ -482,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "467eadd218b315067bd37e3af44d7719f77045cd6d3059bbf89e2ee7ce6b8e4f"
+metafile = true
+
+[[files]]
+file = "mods/nocroptrample.pw.toml"
+hash = "2f6ab9e55b243932a716ff81332104ea7bf6e6c60784e2d03e15f8ddccfb86b6"
 metafile = true
 
 [[files]]
@@ -650,6 +685,11 @@ hash = "55e6f3c2e756c504561ac483a9bce2758fbfc7ae6e0f5100a5a3b31ee95b0bf2"
 metafile = true
 
 [[files]]
+file = "mods/torohealth-continued.pw.toml"
+hash = "8fdfcdc77dac36c37077645d9c8c313236d496fe39b5ef42cd06149140e03695"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "04d9fb97316b361e81cc1648d83f2e813bf29e7072c32d7f9382b7b10f9be1c0"
 metafile = true
@@ -657,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1550aedc52330f566a956212f8784baf76946d2e8398cb4e41988dca48dacd9f"
+metafile = true
+
+[[files]]
+file = "mods/twemoji.pw.toml"
+hash = "2cb7acad6db02a668d12efc7c0f0b1fbd87b2fb53156c7eef57654358f60ea0e"
 metafile = true
 
 [[files]]

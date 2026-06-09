@@ -79,6 +79,11 @@ hash = "83ddd8713d2cfb46d49be96a0da98398fdd39140bbd965b44e223788244e5026"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "1d0e238d35c57cc10332596d3a591c92b18c24dbd9e6ecbaec5ba2bb4345cb7d"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "f0526e4dcbb5e1463d8ab2a5cd52c51fb2fdcd582a9c3dbeec86cbcc035b76d5"
 metafile = true
@@ -101,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "63934e8c044faa46608c77ecf876295f1681540295db3b463dbf629d2a5ac657"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "77972cd0f6c886e5fffa4671c597a71ae72d1f7df4ce942146ca4f6eb05f128d"
 metafile = true
 
 [[files]]
@@ -155,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "ade577a0e62bbcb3cf206ce0ab31ec262e564f2914c1516cbfc9895b87ba0bdc"
+hash = "c0ab1996a4c8b942194852ebe4a482a1a25161e4b36a7075394bfa08f5b8b597"
 metafile = true
 
 [[files]]
@@ -209,6 +219,11 @@ hash = "b0ee602e15644fb8c5a3c49e3decbf5453c2e7ae9473f5b249f65cbcf9a1a944"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "5db9b994bbccc4606a33a54bcf098bc89660442791e4f516c2b64048d3de47a5"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "9412b6025c856fcce3d74947f3b59e58670e0ecda08d7e05d9235247886733c7"
 metafile = true
@@ -229,6 +244,11 @@ hash = "85e25ebb11e850fa30d18641c934ac6ba1b2abf6c5219d2535916d39167c154f"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "09d3f2bb78233593840b73fb548719d1f736c9a84e9d5ae1082449a8fc832ba5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "42f5637a87150687969d64b172ce8ef91bc3a92ee2eb68a2a17153350ff92b4b"
 metafile = true
@@ -240,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "d4561eef984c09e1e7b056ad20862a25aef433b52c45b972203a8ac71f1afbe1"
+hash = "be1184c9fc931f099f7d8b465305066aa0d2611cf1c6598e46ea57d186345af8"
 metafile = true
 
 [[files]]
@@ -289,6 +309,11 @@ hash = "088bbf96fae96afc1e7fdca9b6f8dca98b3ae190a84be749de210454696d7835"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "ce4bdbb7feca270a15a6783f58fb5abf1eea421699b40c701c1717a20fbdf3df"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "6b67b24d10b62a045c25c53fb8139a62d59e8764e468204a48a3ffd73ddf7df5"
 metafile = true
@@ -309,8 +334,18 @@ hash = "5aef64cd14d39f7df90c5a11fa01d8329d215624e26ecd5057d4b605619dbe70"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "95ae00844aa9df215bc0bbbaa06c670bb47f35256fe45aa16bf4cbf270d1ffcb"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "aa946d7c4e9cdb347acbf85838a3021b04ea012af8d7f2d020231e4990777610"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "451f8726db7533de82a17cc902fe6053dcd82f968442c17d507d0373de02ddd0"
+hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
 metafile = true
 
 [[files]]
@@ -364,6 +399,11 @@ hash = "527786352ff1fd42dbe9907e70e00886e913f62ff3451222dc0bd8345e05f358"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "98dddd8c79044e097c8ea0b6de0ff1773ea5382e085a4464e2a75bd9e6a53b86"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "b7c1349a57adb861d45dd1c85d8b553fddae55d49f53500b21324fd7724bccd3"
 metafile = true
@@ -396,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "90d5603faf196b9c30274831dd042935311202a58baaa7c7e2e50df6198d85e3"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "882b82d4dae98ddbe717fc1a0399461a85ec3f63db71f4603c99e3a90ada49d8"
 metafile = true
 
 [[files]]
@@ -441,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "526aa1bf510ced14a3bbbfaacecfb3602c6336f271dba2c9778e22758c81f8ca"
+metafile = true
+
+[[files]]
+file = "mods/nocroptrample.pw.toml"
+hash = "8837b17cb585281418a234ba92dbb7332c3ec6749a45597dd5baa51cd77ebaf4"
 metafile = true
 
 [[files]]
@@ -525,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "a606f6f9cebde93fb1e93548291dd40ab19786064fd61afb5d41195741b152eb"
+hash = "58ad6557713aee1971660e47d607f2ad64017d80357b1e9a986270de93162bc0"
 metafile = true
 
 [[files]]
@@ -599,6 +649,11 @@ hash = "586927387ed68620d679a6a885917b261452b769f08308c08b54da333b6d9896"
 metafile = true
 
 [[files]]
+file = "mods/torohealth-continued.pw.toml"
+hash = "0b68baf67bc49e9da6dce4f0968aa388a5a0d54c852737fec9a2d724d4ddabc3"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "0d06a6a37d735f959187aece8e4153365ac254bb2e781af03504433878a5374c"
 metafile = true
@@ -606,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "75dcf50eb81f968a38de286aa2df7e9a649569ff0c18eff2bd70f9c4028da410"
+metafile = true
+
+[[files]]
+file = "mods/twemoji.pw.toml"
+hash = "0cb61f226d88cec032fa6d57d37186a3ef94615dd02d20f3bb90a74d6df1d816"
 metafile = true
 
 [[files]]

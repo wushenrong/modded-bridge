@@ -60,6 +60,7 @@ Mods that you expect from modded Minecraft.
 - [Fix Keyboard on Linux](https://modrinth.com/project/siXFh9dn)
 - [FlickerFix](https://modrinth.com/project/KSyWOxT5)
 - [Inventory Essentials](https://modrinth.com/project/Boon8xwi)
+- [Let Me Despawn](https://modrinth.com/project/vE2FN5qn)
 - [Jade](https://modrinth.com/project/nvQzSEkH)
 - [Just Enough Breeding](https://modrinth.com/project/9Pk89J3g)
 - [Just Enough Items](https://modrinth.com/project/u6dRKJwZ)
@@ -71,6 +72,7 @@ Mods that you expect from modded Minecraft.
 - [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)
 - [Status Effect Bars](https://modrinth.com/project/x02cBj9Y)
 - [TrashSlot](https://modrinth.com/project/vRYk0bv7)
+- [ToroHealth Continued](https://modrinth.com/project/28cjn3lz)
 - [Zoomify](https://modrinth.com/project/w7ThoJFB)
 
 ## Utilities
@@ -120,11 +122,12 @@ Mods that can be considered a major gameplay change.
 
 -   [Bow Infinity Fix](https://modrinth.com/project/BFENfScW)
 -   [Bridging Mod](https://modrinth.com/project/lO3s8hjs)
+-   [Crops Love Rain](https://modrinth.com/project/cRci7UZp)
 -   [Cut Through](https://modrinth.com/project/Dk6su9JN)
--   [Trade Cycling](https://modrinth.com/project/qpPoAL6m)
 -   [I'm Fast](https://modrinth.com/project/PaUMOeP0)
 -   [Jump Over Fences](https://modrinth.com/project/4HeIHvIP)
 -   [Leaves Be Gone](https://modrinth.com/project/AVq17PqV)
+-   [No Crop Trample](https://modrinth.com/project/5XlZRhM5)
 -   [RightClickHarvest](https://modrinth.com/project/Cnejf5xM)
 
     Requires [JamLib](https://modrinth.com/project/IYY9Siz8).[^1]
@@ -133,6 +136,7 @@ Mods that can be considered a major gameplay change.
     versions 1.21.1 and 1.21.11.[^1]
 
 -   [Squat Grow](https://modrinth.com/project/b5JMdB5V)[^1]
+-   [Trade Cycling](https://modrinth.com/project/qpPoAL6m)
 -   [Universal Bone Meal](https://modrinth.com/project/66VIiT1y)[^1]
 -   [Visual Workbench](https://modrinth.com/project/kfqD1JRw)[^1]
 
@@ -152,6 +156,7 @@ replace Optifine.
 -   [Armor Poser](https://modrinth.com/project/PFwYNrHb)[^1]
 -   [Cape Provider](https://modrinth.com/project/orXAsira)
 -   [Continuity](https://modrinth.com/project/1IjD5062)
+-   [Distant Horizons](https://modrinth.com/project/uCdwusMi)[^1]
 -   [Ears](https://modrinth.com/project/mfzaZK3Z)
 -   [Entity Model Features](https://modrinth.com/project/4I1XuqiY)
 
@@ -159,6 +164,7 @@ replace Optifine.
 
 -   [Entity Sound Features](https://modrinth.com/project/IMuO8COj)
 -   [Entity Texture Features](https://modrinth.com/project/BVzZfTc1)
+-   [Falling Leaves](https://modrinth.com/project/WhbRG4iK)
 -   [First Person Model](https://modrinth.com/project/H5XMjpHi)
 
     Requires [Not Enough Animations](https://modrinth.com/project/MPCX6s5C).
@@ -204,7 +210,9 @@ Mods that are useful when playing with other people.
 
 -   [e4all](https://modrinth.com/project/fB1gJLGX)
 -   [Emoji Type](https://modrinth.com/project/q7vRRpxU)
+-   [Flashback](https://modrinth.com/project/4das1Fjq)
 -   [No Chat Reports](https://modrinth.com/project/qQyHxfxd)[^1]
 -   [No Chat Restrictions](https://modrinth.com/project/z440MEwJ)
 -   [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)[^1]
 -   [Skin Restorer](https://modrinth.com/project/ghrZDhGW)[^1]
+-   [Twemoji](https://modrinth.com/project/aCiQlU58)

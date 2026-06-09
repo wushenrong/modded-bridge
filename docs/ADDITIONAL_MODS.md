@@ -5,14 +5,6 @@ Lists of mods that I left out of the pack. See
 mods listed below. It also includes some resource packs and shaders that I
 liked.
 
-## [Distant Horizons](https://modrinth.com/project/uCdwusMi)
-
-For people who want a larger render distance without burning their computer.
-
-## [Flashback](https://modrinth.com/project/4das1Fjq)
-
-For content creators who want record gameplay of their world in Minecraft.
-
 ## Vein Miners
 
 For people who want to mine ores more quickly without using modded items. Since
@@ -64,8 +56,3 @@ Recommendations:
 -   [Just Enough Backups](https://modrinth.com/project/ctV8T1ZK)
 -   [Fast Backups](https://modrinth.com/project/ZHKrK8Rp) (Git is not a backup
     utility but sure)
-
-## Disable Crop Trampling
-
-Stop accidentally trample farmland. Install one that you like, supports
-Fabric and the latest versions of Minecraft.

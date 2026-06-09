@@ -15,12 +15,9 @@ optional. See the mod list for mods that were made optional.
 Missing mods for version 26.1.2:
 
 -   Default Mods
-    - Auth Me
     - Durability Tooltips
     - Fix Keyboard on Linux
-    - FlickerFix
     - Just Enough Breeding
-    - Just Enough Resources
 
 -   Optional Mods
     - Jump Over Fences
@@ -29,12 +26,22 @@ Missing mods for version 26.1.2:
 
 ### Added
 
+- Advancement Plaques
+- Crops Love Rain
+- Distant Horizons
+- Falling Leaves
+- Flashback
+- Let Me Despawn
 - No Chat Restrictions
+- No Crop Trample
 - Particular Patches for version 1.21.1
 - Skin Restorer
+- ToroHealth Continued
+- Twemoji
 
 ### Changed
 
+- Updated all mods to their latest version
 - All visual and audio enhancements and multiplayer mods as optional
 - Animatica to Animatica Refabricated for versions 1.21.11 and later
 - e4mc to e4all

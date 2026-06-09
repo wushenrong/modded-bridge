@@ -15,15 +15,9 @@ mods and configurations from [Fabulously Optimized](https://download.fo/).
 
 Use your favorite launcher to download
 [the pack from Modrinth](https://modrindth.com/modpack/modded-bridge).
-[Modrinth App](https://modrinth.com/app) or
-[Prism Launcher](https://prismlauncher.org/) is recommended. For servers, use
+It is recommended to use [Modrinth App](https://modrinth.com/app) or
+[Prism Launcher](https://prismlauncher.org/). For servers, use
 [mrpack-install](https://github.com/nothub/mrpack-install).
-
-Read Sodium's
-[Driver Compatibility guide](https://github.com/CaffeineMC/sodium/wiki/Driver-Compatibility)
-before installing this modpack. Read Additive's
-[post-installation guide](https://skywardmc.org/additive/post-install/) to learn
-about gain more performance.
 
 If you are installing
 [optional mods](https://github.com/wushenrong/modded-bridge/blob/main/docs/MODS.md#optional-mods)
@@ -32,10 +26,10 @@ the client if it's recommended.
 
 See
 [Configuration Changes](https://github.com/wushenrong/modded-bridge/blob/main/docs/CONFIG_CHANGES.md)
-for modifications to the default settings and options you might want to apply.
-See
+and
 [Additional Mods](https://github.com/wushenrong/modded-bridge/blob/main/docs/ADDITIONAL_MODS.md)
-for mods that you might want to install but is not included in the pack.
+for modifications to the default settings and other options or mods you might
+want to apply that were not included by default.
 
 ## Contributing
 

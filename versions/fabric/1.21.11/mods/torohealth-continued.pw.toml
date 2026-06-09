@@ -1,0 +1,13 @@
+name = "ToroHealth-Continued"
+filename = "torohealth-continued-fabric-1.21.11-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/28cjn3lz/versions/ieFMlKV2/torohealth-continued-fabric-1.21.11-1.5.1.jar"
+hash-format = "sha512"
+hash = "7ef38d7d265ce3007215c71cfe07f7afd05830ff4a9569dba5e1f977cf0d7a59a8fc8156f0cd8e97fe5d68456c6cde85b55453c2b201d10e1c0fd9a2f690bf79"
+
+[update]
+[update.modrinth]
+mod-id = "28cjn3lz"
+version = "ieFMlKV2"
