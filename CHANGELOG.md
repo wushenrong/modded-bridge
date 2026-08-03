@@ -9,13 +9,23 @@ Versions before 26.1 adheres to a loose version of
 
 ## [26.3] - Unreleased
 
+Fast tracks changes from Additive versions 26.2 to 26.4.3.
 ### Added
 
 - Durability Tooltips, Polytone, and Emoji Type for versions 26.1.2 and later.
+- Async Logger
+- Structure Layout Optimizer
+- Kerria for version 1.21.1
 
 ### Changed
 
-- Updated mods to their latest versions.
+- Update mods to their latest versions.
+- Enable Sneaky Capes in Cape Provider.
+- Raise dynamic fps unfocused target from 2 to 10.
+
+### Removed
+
+- Sodium Leaf Culling for version 1.21.1
 
 ## [26.2] - 2026-06-08
 

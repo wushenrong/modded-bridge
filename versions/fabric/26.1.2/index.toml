@@ -6,7 +6,7 @@ hash = "bddc5321dc5c7c40e1b23f595324d2ddd82d01baaf9c733e678104af36867e72"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
-hash = "8f3124889765e441dbb96e5f4231e0b41ed2e1870dd48b4d7c765437185d90dc"
+hash = "f11c21cb1788d0b62442c1991b4cfd50deccdf425abce70390049519acc09f97"
 
 [[files]]
 file = "config/modpack_defaults/config/controlify.json"
@@ -18,7 +18,7 @@ hash = "ca623073faf7082d054d9263effab6ef207a0c0d8aa5ec534a3bc0ba0065be6e"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
-hash = "5c015be2886f58cdf8bb2349624d8f3471c4636453a7bac70ef910a17f1617be"
+hash = "1fdd586a0b3820ac3bfe21542dac3b866f1d4f4ec4186dbb45368f337ad25a36"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -101,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "21b092ef224120fb0b23246596ddab761db01904a719e995b14ffc17e68db7b3"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "2aa1892b809683f9566fe863329ef92f251c2e31a330345af48ce92a7bfda6a7"
 metafile = true
 
 [[files]]
@@ -579,6 +584,11 @@ hash = "0ccac081efd9cfee6d2a13b87f571938292069888f6259f823a94302db8c39fc"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "d5a2925609b3dcf060253a1d75414e4c7747c9d5c206c5ff83a678f75b94ff5b"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "bcb10f777398145c85eb32eaf4d03dee5f8ba5def058716b75f83f19612f258b"
 metafile = true
@@ -625,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "29d554075cdcdff3a9708bd937672874989247d5275d2be3c8938295ce87bfdd"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
@@ -646,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1ad93d29e2c2d3d79dd88260dda65b1c422279a64aedbb18f4c7f124c218f9d8"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "0a492579cdfcaa2033d698315ce3b9c1959b10841e38e1a0bb874a9e648838f1"
 metafile = true
 
 [[files]]

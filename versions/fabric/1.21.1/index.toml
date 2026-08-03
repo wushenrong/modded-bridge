@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fcf2621f3beb9a080f5b993f0f2d37efd41b426bc8664a67dbea5b4b87715f11"
+hash = "bddc5321dc5c7c40e1b23f595324d2ddd82d01baaf9c733e678104af36867e72"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
-hash = "8f3124889765e441dbb96e5f4231e0b41ed2e1870dd48b4d7c765437185d90dc"
+hash = "f11c21cb1788d0b62442c1991b4cfd50deccdf425abce70390049519acc09f97"
 
 [[files]]
 file = "config/modpack_defaults/config/citresewn.json"
@@ -22,7 +22,7 @@ hash = "ca623073faf7082d054d9263effab6ef207a0c0d8aa5ec534a3bc0ba0065be6e"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
-hash = "5c015be2886f58cdf8bb2349624d8f3471c4636453a7bac70ef910a17f1617be"
+hash = "1fdd586a0b3820ac3bfe21542dac3b866f1d4f4ec4186dbb45368f337ad25a36"
 
 [[files]]
 file = "config/modpack_defaults/config/enhanced_bes.properties"
@@ -59,10 +59,6 @@ hash = "5a776de154d789595f9a70a51ea2f532ca4e4a8d4529f87012bef8d87e500748"
 [[files]]
 file = "config/modpack_defaults/config/puzzle.json"
 hash = "d3726420ad2bffb66610126d9b43ee6f3863a77cb8b90fa6a4082fa040f050d3"
-
-[[files]]
-file = "config/modpack_defaults/config/sodium-options.json"
-hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
 file = "config/modpack_defaults/config/squatgrow-common.yaml"
@@ -114,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "2a90947b78535610e3dff314d5e5df97d35913f4e2ed90c09605789c68a82d7e"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "d2efdd2dd469e56d9437082a52d6d8d9f9c4b055ad3b728dded4c49d4ba5267a"
 metafile = true
 
 [[files]]
@@ -442,6 +443,11 @@ hash = "34f033dabd45ddf5eb2e065e2ea1de1dd42f90169323c2becde428261e82ed66"
 metafile = true
 
 [[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "101d29680a0fbb8f56497372ffd06fe85491d14d8371ff5a2c876175dab70b59"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "1d1a9561a82827bfb42f36a4746ca35af6c13de81c4d2f429604af5eb5199527"
 metafile = true
@@ -622,6 +628,11 @@ hash = "7c9846385d08af6c3a44efa155c0d29ac648b6fb41b4ba97b3d95416d2db3f6c"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "2272f386d6106a691953f80822614643f0a4ef9df1cbff71fcc02caebd8ad45b"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "bd5c33c1b6e58ae65dc73da7c856d653ed2da8e9a318dafc72f4c5e6772e1194"
 metafile = true
@@ -668,12 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3e0c8e0e78ced5db1703fa1ce676c23db352a0bff68789ccda99edd899751ec1"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "0a6179657082b15117e18fbc80fd60538dc91024a63006e843cb5dbf1991bcbe"
+hash = "311d23361c153f7adcad260255fe3b2062f1c8e67c75ee088e0b61855e9d9134"
 metafile = true
 
 [[files]]
@@ -694,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "300bbdd1b2feaef57f228585b73ca8f35909ec247bda36dc9664288bc08b6158"
 metafile = true
 
 [[files]]

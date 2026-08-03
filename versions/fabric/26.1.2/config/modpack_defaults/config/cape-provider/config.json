@@ -1,7 +1,8 @@
 {
   "activeProviderIds": [
+    "sneaky-capes",
     "minecraftcapes",
-    "mod-cape-provider",
-    "optifine"
+    "optifine",
+    "mod-cape-provider"
   ]
 }

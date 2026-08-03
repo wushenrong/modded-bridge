@@ -7,7 +7,7 @@
       }
     },
     "unfocused": {
-      "frame_rate_target": 2,
+      "frame_rate_target": 10,
       "volume_multipliers": {
         "master": 1.0
       }

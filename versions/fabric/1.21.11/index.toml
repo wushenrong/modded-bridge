@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fcf2621f3beb9a080f5b993f0f2d37efd41b426bc8664a67dbea5b4b87715f11"
+hash = "bddc5321dc5c7c40e1b23f595324d2ddd82d01baaf9c733e678104af36867e72"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
-hash = "8f3124889765e441dbb96e5f4231e0b41ed2e1870dd48b4d7c765437185d90dc"
+hash = "f11c21cb1788d0b62442c1991b4cfd50deccdf425abce70390049519acc09f97"
 
 [[files]]
 file = "config/modpack_defaults/config/controlify.json"
@@ -18,7 +18,7 @@ hash = "ca623073faf7082d054d9263effab6ef207a0c0d8aa5ec534a3bc0ba0065be6e"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
-hash = "5c015be2886f58cdf8bb2349624d8f3471c4636453a7bac70ef910a17f1617be"
+hash = "1fdd586a0b3820ac3bfe21542dac3b866f1d4f4ec4186dbb45368f337ad25a36"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -102,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "b64eafe421e04547e5c6a6184fa717d06d2e18beb1d97e72804e03d3c0694223"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "23ccb09d0d71e059960a5c1402c2c1b900c00b1404cbb6ff65c3357610476885"
 metafile = true
 
 [[files]]
@@ -595,6 +600,11 @@ hash = "85fd951cd42fd7b545c096058bf36127718ef9ec45ab3997c3baef5d65a903f8"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4931a48b30837607a36b0cc7a2d40b32c83a4f7f02bf8a16dbf553e8bba7e0ab"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "8308d97711a8022302b08fa708c3195cecb2ffb381552f84ca6c5bcbcb6aee00"
 metafile = true
@@ -641,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "07bb172b067b9f3a0c802842f8c68333f65748aea6ac92e8ebc2e08875e90427"
+hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
 metafile = true
 
 [[files]]
@@ -662,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "3ed900bdfc8331520c122957c64c930a50bd814a722b6367155af675d4bf0e40"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "8496ee9e0b2f4d50c9c9d757b8d3b6ba3889dbf42a6333bd2b3efa44a989c034"
 metafile = true
 
 [[files]]
