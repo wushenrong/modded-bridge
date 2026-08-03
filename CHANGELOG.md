@@ -7,6 +7,16 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [26.3] - Unreleased
+
+### Added
+
+- Durability Tooltips, Polytone, and Emoji Type for versions 26.1.2 and later.
+
+### Changed
+
+- Updated mods to their latest versions.
+
 ## [26.2] - 2026-06-08
 
 Adds beta support for version 26.1.x, but expect missing features/mods:

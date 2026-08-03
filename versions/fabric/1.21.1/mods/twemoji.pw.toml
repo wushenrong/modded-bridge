@@ -1,16 +1,16 @@
 name = "Twemoji"
-filename = "twemoji-1.21.1-Fabric-1.0.3.jar"
+filename = "twemoji-1.21.1-Fabric-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aCiQlU58/versions/AxKZtizv/twemoji-1.21.1-Fabric-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/aCiQlU58/versions/PZb4vuR1/twemoji-1.21.1-Fabric-1.0.5.jar"
 hash-format = "sha512"
-hash = "2454d9182b28fdbcd513f6f77fa07c082a21cd5ece85d485689783564612f7553d554ecdfba818a6b7f5a51a2c7f49fa7880a735a080a0fe0ef26aafcd590e3e"
+hash = "88a7c28089355e29d08eb35e3cf3d84019e1779b0a3a10b18a2b7940bf94009ad7d0f3b9f4a4ad27c61a4c4b7ed286b9d6c0ec002303eba2adbf6d763ad69c8b"
 
 [update]
 [update.modrinth]
 mod-id = "aCiQlU58"
-version = "AxKZtizv"
+version = "PZb4vuR1"
 
 [option]
 optional = true
