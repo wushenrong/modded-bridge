@@ -9,9 +9,21 @@ Versions before 26.1 adheres to a loose version of
 
 ## [26.3] - Unreleased
 
-Fast tracks changes from Additive versions 26.2 to 26.4.3.
+Fast tracks changes from Additive versions 26.2 to 26.4.3. Adds support for
+Minecraft version 26.2.
+
+Missing mods for 26.1.2 and 26.2:
+
+-   Default Mods
+    - Fix Keyboard on Linux
+    - Just Enough Breeding
+
+-   Optional Mods
+    - Jump Over Fences
+
 ### Added
 
+- Support for version 26.2.
 - Durability Tooltips, Polytone, and Emoji Type for versions 26.1.2 and later.
 - Async Logger
 - Structure Layout Optimizer
