@@ -12,7 +12,7 @@ Versions before 26.1 adheres to a loose version of
 Fast tracks changes from Additive versions 26.2 to 26.4.3. Adds support for
 Minecraft version 26.2.
 
-Missing mods for 26.1.2 and 26.2:
+Missing mods on 26.1.2 and 26.2:
 
 -   Default Mods
     - Fix Keyboard on Linux
@@ -20,6 +20,11 @@ Missing mods for 26.1.2 and 26.2:
 
 -   Optional Mods
     - Jump Over Fences
+
+Missing mods on 1.21.1:
+
+-   Default Mods
+    - Cull Less Leaves
 
 ### Added
 
@@ -34,6 +39,7 @@ Missing mods for 26.1.2 and 26.2:
 - Update mods to their latest versions.
 - Enable Sneaky Capes in Cape Provider.
 - Raise dynamic fps unfocused target from 2 to 10.
+- Swapped Enhanced Block Entities to Better Block Entities for version 1.21.1.
 
 ### Removed
 

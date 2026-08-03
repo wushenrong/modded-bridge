@@ -133,6 +133,11 @@ hash = "8c9acc3fc936af609dc7f2efb10a5cb894b237feb1427c102934a34fb81948a9"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "6d0e4579750e9cbae8489a3a3256187c698a140496d29fa849d2aaa4ffa53cf4"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
@@ -275,11 +280,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "c6a972f13177dc218c7fc3384b7a3dc3cec303f228e5804ae5c735a52d7915d4"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]

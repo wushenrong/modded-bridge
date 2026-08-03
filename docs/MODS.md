@@ -13,17 +13,10 @@ have to do anything to play the pack.
 
 ### Performance
 
+-   [Async Logger](https://modrinth.com/project/zvNzKfGF)
 -   [Better Block Entities](https://modrinth.com/project/ONZm0H7Y)
-
-    Version 1.21.1 uses
-    [Enhanced Block Entities](https://modrinth.com/project/OVuFYfre)
-
 -   [C2ME](https://modrinth.com/project/VSNURh3q)
 -   [Cull Fewer Leaves](https://modrinth.com/project/alhWWxax)
-
-    Version 1.21.1 uses
-    [Sodium Leaf Culling](https://modrinth.com/project/M25bkObt).
-
 -   [Dynamic FPS](https://modrinth.com/project/LQ3K71Q1)
 -   [Entity Culling](https://modrinth.com/project/NNAgCjsB)
 -   [FastNoise](https://modrinth.com/project/OnlVIpq5)
@@ -43,6 +36,7 @@ have to do anything to play the pack.
 -   [ServerCore](https://modrinth.com/project/4WWQxlQP)
 -   [Sodium](https://modrinth.com/project/AANobbMI)
 -   [Sodium Extra](https://modrinth.com/project/PtjYWJkn)
+-   [Structure Layout Optimizer](https://modrinth.com/project/ayPU0OHc)
 
 ### Quality of Life
 
@@ -140,7 +134,7 @@ Mods that can be considered a major gameplay change.
 -   [Universal Bone Meal](https://modrinth.com/project/66VIiT1y)[^1]
 -   [Visual Workbench](https://modrinth.com/project/kfqD1JRw)[^1]
 
-[^1]: Best on both client and server.
+[^1]: Works best if installed on both client and server.
 
 ## Visual and Audio Enhancements
 
