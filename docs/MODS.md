@@ -209,4 +209,3 @@ Mods that are useful when playing with other people.
 -   [No Chat Restrictions](https://modrinth.com/project/z440MEwJ)
 -   [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)[^1]
 -   [Skin Restorer](https://modrinth.com/project/ghrZDhGW)[^1]
--   [Twemoji](https://modrinth.com/project/aCiQlU58)

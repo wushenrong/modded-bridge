@@ -44,6 +44,7 @@ Missing mods on 1.21.1:
 ### Removed
 
 - Sodium Leaf Culling for version 1.21.1
+- Twemoji
 
 ## [26.2] - 2026-06-08
 
