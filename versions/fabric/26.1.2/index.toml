@@ -699,11 +699,6 @@ hash = "1e20f2f017b4f043161649c07fa8ca5137a63106ae71b296715571db7e176cc5"
 metafile = true
 
 [[files]]
-file = "mods/twemoji.pw.toml"
-hash = "aa1cba202834456ecb387faf906218d68f8f76c6444bec440e9faa59d5704da4"
-metafile = true
-
-[[files]]
 file = "mods/unilib.pw.toml"
 hash = "13fdbab8e9d90438754cd5a7dd8d99d5c7184e4f0fd2bc15eb6eceec939ccdc0"
 metafile = true

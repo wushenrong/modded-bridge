@@ -176,10 +176,6 @@ replace Optifine.
     Requires [BaguetteLib](https://modrinth.com/project/OfKzpbRU) for versions
     26.1.2 or later.[^1]
 
-    Version 1.21.1 uses [Particular](https://modrinth.com/project/B1CcCd9h) and
-    [Particular Patches](https://modrinth.com/project/Wk0Sq3Ea). Requires
-    [owo-lib](https://modrinth.com/project/ccKDOlHs).
-
 -   [Polytone](https://modrinth.com/project/3qAYkBMB)
 -   [Puzzle](https://modrinth.com/project/3IuO68q1)
 

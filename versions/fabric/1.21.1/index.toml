@@ -558,11 +558,6 @@ hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "3b1b3089d23b08de26ecbefcbcca9b99303c48bee910036bed9887b6918a6c86"
-metafile = true
-
-[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
@@ -573,13 +568,8 @@ hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
 metafile = true
 
 [[files]]
-file = "mods/particular-patches.pw.toml"
-hash = "b9a775f566be445771c285f894e58531f50983b507f118260d02e193dc3a0616"
-metafile = true
-
-[[files]]
-file = "mods/particular.pw.toml"
-hash = "119f2b942dc304bc43bda9a30097413d4c560f23fd95248f7eaf13c2d459dc4c"
+file = "mods/particular-reforged.pw.toml"
+hash = "53fc6acbaea7dff4fc83f49db785e89f3b3fb1405a6cbbdd4b22ec9f4f335a11"
 metafile = true
 
 [[files]]
@@ -735,11 +725,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5f66e0f764c4afcc9b92f97dba46c647941f586b433d0991a6229aedcd700751"
-metafile = true
-
-[[files]]
-file = "mods/twemoji.pw.toml"
-hash = "00a48f0781cc8b536be4683da91aa97ec170c16fa4782831a09cf715060be895"
 metafile = true
 
 [[files]]

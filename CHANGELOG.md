@@ -40,9 +40,11 @@ Missing mods on 1.21.1:
 - Enable Sneaky Capes in Cape Provider.
 - Raise dynamic fps unfocused target from 2 to 10.
 - Swapped Enhanced Block Entities to Better Block Entities for version 1.21.1.
+- Swapped Particular and Patches to Particular Reforged for version 1.21.1.
 
 ### Removed
 
+- owo-lib
 - Sodium Leaf Culling for version 1.21.1
 - Twemoji
 
