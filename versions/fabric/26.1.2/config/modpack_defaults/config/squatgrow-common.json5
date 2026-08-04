@@ -3,14 +3,21 @@
     "minecraft:big_dripleaf_stem",
     "minecraft:big_dripleaf",
     "minecraft:bush",
+    "minecraft:crimson_nylium",
     "minecraft:crimson_roots",
     "minecraft:fern",
     "minecraft:firefly_bush",
+    "minecraft:grass_block",
+    "minecraft:grass",
     "minecraft:large_fern",
+    "minecraft:netherrack",
     "minecraft:pink_petals",
     "minecraft:rose_bush",
     "minecraft:short_dry_grass",
+    "minecraft:short_grass",
     "minecraft:sunflower",
+    "minecraft:tall_grass",
+    "minecraft:warped_nylium",
     "minecraft:wildflowers"
   ]
 }

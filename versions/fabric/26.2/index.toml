@@ -58,7 +58,7 @@ hash = "d3726420ad2bffb66610126d9b43ee6f3863a77cb8b90fa6a4082fa040f050d3"
 
 [[files]]
 file = "config/modpack_defaults/config/squatgrow-common.json5"
-hash = "2583381242cae6c1f2f1fe5e5b5c9a45f84cfbb3748b53ce351ea643f49f6890"
+hash = "b0bac64a53f431474728b932e5d7ecd0ff660f771ec579f61d83dc5d69bf39fc"
 
 [[files]]
 file = "config/modpack_defaults/config/vmp.properties"
@@ -319,11 +319,6 @@ hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "088bbf96fae96afc1e7fdca9b6f8dca98b3ae190a84be749de210454696d7835"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "ce4bdbb7feca270a15a6783f58fb5abf1eea421699b40c701c1717a20fbdf3df"
 metafile = true
@@ -351,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/flashback.pw.toml"
 hash = "e72e500c22210671870bcc49b1b32e99f3eec63015cb7cd11439bdee31a5c6e8"
-metafile = true
-
-[[files]]
-file = "mods/flickerfix.pw.toml"
-hash = "aa946d7c4e9cdb347acbf85838a3021b04ea012af8d7f2d020231e4990777610"
 metafile = true
 
 [[files]]
@@ -481,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
+metafile = true
+
+[[files]]
+file = "mods/nanite-library.pw.toml"
+hash = "4159de19c4297926f849e7bebfb772aa803bf7e3ca9afdaa1f560dad83208c71"
 metafile = true
 
 [[files]]
@@ -669,23 +664,8 @@ hash = "366ed82036ba40fe1d8e4e17b491219244eba740782320fe0d5f17a7f3981833"
 metafile = true
 
 [[files]]
-file = "mods/tag-tooltips.pw.toml"
-hash = "6f17aec2b43b23daa262c078b84e68bd054e0e0720f21d5a78129a3653aab07e"
-metafile = true
-
-[[files]]
-file = "mods/tag-translations-for-jei.pw.toml"
-hash = "04c175ecb08f1ff2b3e400580b968dd18da7ccaf660bc693ca74836fb072da50"
-metafile = true
-
-[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "8ed75307f67eda20803933351ad42b49490ff7cbf473adadd55234caf6e735d9"
-metafile = true
-
-[[files]]
-file = "mods/torohealth-continued.pw.toml"
-hash = "0b68baf67bc49e9da6dce4f0968aa388a5a0d54c852737fec9a2d724d4ddabc3"
 metafile = true
 
 [[files]]

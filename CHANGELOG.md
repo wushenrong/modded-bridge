@@ -7,12 +7,26 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [26.3] - Unreleased
+## [26.3] - 2026-08-04
 
 Fast tracks changes from Additive versions 26.2 to 26.4.3. Adds support for
-Minecraft version 26.2.
+Minecraft version 26.2 but expect missing mods and features.
 
-Missing mods on 26.1.2 and 26.2:
+Missing mods on 26.2:
+
+-   Default Mods
+    - Fabrishot
+    - Fix Keyboard on Linux
+    - FlickerFix
+    - Just Enough Breeding
+    - Tag Tooltips
+    - Tag Translations for JEI
+    - Torohealth Continued
+
+-   Optional Mods
+    - Jump Over Fences
+
+Missing mods on 26.1.2:
 
 -   Default Mods
     - Fix Keyboard on Linux
@@ -29,10 +43,11 @@ Missing mods on 1.21.1:
 ### Added
 
 - Support for version 26.2.
-- Durability Tooltips, Polytone, and Emoji Type for versions 26.1.2 and later.
+- Durability Tooltips, Polytone, and Emoji Type for versions 26.1.2 and later
 - Async Logger
 - Structure Layout Optimizer
 - Kerria for version 1.21.1
+- Nanite Library for versions 26.2.1 and later
 
 ### Changed
 
@@ -41,10 +56,12 @@ Missing mods on 1.21.1:
 - Raise dynamic fps unfocused target from 2 to 10.
 - Swapped Enhanced Block Entities to Better Block Entities for version 1.21.1.
 - Swapped Particular and Patches to Particular Reforged for version 1.21.1.
+- Fix Squat Grow configuration for version 1.21.1.
+- Add default ignored plants to Squat Grow configuration.
 
 ### Removed
 
-- owo-lib
+- owo-lib for version 1.21.1
 - Sodium Leaf Culling for version 1.21.1
 - Twemoji
 

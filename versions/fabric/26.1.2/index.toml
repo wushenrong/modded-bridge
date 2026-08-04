@@ -58,7 +58,7 @@ hash = "d3726420ad2bffb66610126d9b43ee6f3863a77cb8b90fa6a4082fa040f050d3"
 
 [[files]]
 file = "config/modpack_defaults/config/squatgrow-common.json5"
-hash = "2583381242cae6c1f2f1fe5e5b5c9a45f84cfbb3748b53ce351ea643f49f6890"
+hash = "b0bac64a53f431474728b932e5d7ecd0ff660f771ec579f61d83dc5d69bf39fc"
 
 [[files]]
 file = "config/modpack_defaults/config/vmp.properties"
@@ -481,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
+metafile = true
+
+[[files]]
+file = "mods/nanite-library.pw.toml"
+hash = "7e66c52b98cf91acbf5382fbc75a001dfaa93a07fbdefa6f5fca0d6c3d17b1af"
 metafile = true
 
 [[files]]

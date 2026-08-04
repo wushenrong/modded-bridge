@@ -130,6 +130,10 @@ Mods that can be considered a major gameplay change.
     versions 1.21.1 and 1.21.11.[^1]
 
 -   [Squat Grow](https://modrinth.com/project/b5JMdB5V)[^1]
+
+    Requires [Nanite Library](https://modrinth.com/project/xSlNcCOe),
+    for versions 26.1.2 and later.[^1]
+
 -   [Trade Cycling](https://modrinth.com/project/qpPoAL6m)
 -   [Universal Bone Meal](https://modrinth.com/project/66VIiT1y)[^1]
 -   [Visual Workbench](https://modrinth.com/project/kfqD1JRw)[^1]
@@ -179,7 +183,7 @@ replace Optifine.
 -   [Polytone](https://modrinth.com/project/3qAYkBMB)
 -   [Puzzle](https://modrinth.com/project/3IuO68q1)
 
-    Version 1.21.1 and 1.21.11 requires
+    Versions 1.21.1 and 1.21.11 requires
     [MidnightLib](https://modrinth.com/project/codAaoxh).[^1]
 
 -   [Skyboxify](https://modrinth.com/project/DWuwk8aA)
