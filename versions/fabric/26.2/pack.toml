@@ -11,6 +11,3 @@ hash = "7e38005459e16324c26c22bfc8002a825f6ac81e1c448c58aabdb34386e0f200"
 [versions]
 fabric = "0.19.3"
 minecraft = "26.2"
-
-[options]
-acceptable-game-versions = ["26.1"]
