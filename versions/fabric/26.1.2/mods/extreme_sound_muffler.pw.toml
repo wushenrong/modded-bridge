@@ -1,13 +1,13 @@
 name = "Extreme sound muffler"
-filename = "ExtremeSoundMuffler-3.58.1_Fabric-26.1.jar"
+filename = "ExtremeSoundMuffler-4.04_Fabric-26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/npZQhYia/ExtremeSoundMuffler-3.58.1_Fabric-26.1.jar"
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/otbBAIDN/ExtremeSoundMuffler-4.04_Fabric-26.1.jar"
 hash-format = "sha512"
-hash = "48b0ddf262979ad2e8e45a71292e03c5e96c00468e82f8b21b7afdec8063aa88279d2478cbabbfc7b662b4f49695f3317b59e7c0f4fd9089b8806762ea4e58f4"
+hash = "acbe7c8facbd9d483b0ebe7f3ad018c4f155ddfa4046d2908ae7ac242109bfb13907c049291d169977af112255bacf82557a5c34c1b028017c9df0a2f61b07a4"
 
 [update]
 [update.modrinth]
 mod-id = "5IIKsxiL"
-version = "npZQhYia"
+version = "otbBAIDN"

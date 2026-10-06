@@ -9,7 +9,8 @@ Mostly based on [Adrenaline](https://skywardmc.org/adrenaline) and
 ## Default Mods
 
 Mods that are enabled by default when you install the pack, and you do not
-have to do anything to play the pack.
+have to do anything to play the pack. Dependencies of these mods will not be
+listed.
 
 ### Performance
 
@@ -19,13 +20,16 @@ have to do anything to play the pack.
 -   [Cull Fewer Leaves](https://modrinth.com/project/alhWWxax)
 -   [Dynamic FPS](https://modrinth.com/project/LQ3K71Q1)
 -   [Entity Culling](https://modrinth.com/project/NNAgCjsB)
--   [FastNoise](https://modrinth.com/project/OnlVIpq5)
+-   [Fast Noise](https://modrinth.com/project/OnlVIpq5)
+-   [Fast Surface](https://modrinth.com/project/FRSaEVFk)
 -   [FastQuit](https://modrinth.com/project/x1hIzbuY)
 -   [FerriteCore](https://modrinth.com/project/uXXizFIs)
 -   [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)
 -   [Ixeris](https://modrinth.com/project/p8RJPJIC)
+-   [Kerria](https://modrinth.com/project/f0ruQTF7)
 -   [Language Reload](https://modrinth.com/project/uLbm7CG6)
 -   [Lithium](https://modrinth.com/project/gvQqBUqZ)
+-   [Material Rule Compiler](https://modrinth.com/project/vnpqfrJN)
 -   [Modernfix-mVUS](https://modrinth.com/project/TjSm1wrD)
 
     Version 1.21.1 uses [Modernfix](https://modrinth.com/project/nmDcB62a).
@@ -42,48 +46,56 @@ have to do anything to play the pack.
 
 Mods that you expect from modded Minecraft.
 
-- [Advanced Loot Info](https://modrinth.com/project/PEPVViac)
-- [Amecs](https://modrinth.com/project/rcLriA4v)
-- [Apple Skin](https://modrinth.com/project/EsAfCjCV)
-- [Attribute Fix](https://modrinth.com/project/lOOpEntO)
-- [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)
-- [Crafting Tweaks](https://modrinth.com/project/DMu0oBKf)
-- [Durability Tooltips](https://modrinth.com/project/smUP7V3r)
-- [Enchantment Descriptions](https://modrinth.com/project/UVtY3ZAC)
-- [Extreme Sound Muffler](https://modrinth.com/project/5IIKsxiL)
-- [Fix Keyboard on Linux](https://modrinth.com/project/siXFh9dn)
-- [FlickerFix](https://modrinth.com/project/KSyWOxT5)
-- [Inventory Essentials](https://modrinth.com/project/Boon8xwi)
-- [Let Me Despawn](https://modrinth.com/project/vE2FN5qn)
-- [Jade](https://modrinth.com/project/nvQzSEkH)
-- [Just Enough Breeding](https://modrinth.com/project/9Pk89J3g)
-- [Just Enough Items](https://modrinth.com/project/u6dRKJwZ)
-- [Just Enough Professions](https://modrinth.com/project/kB56GtWA)
-- [Just Enough Resources](https://modrinth.com/project/uEfK2CXF)
-- [MacOS Input Fixes](https://modrinth.com/project/x9BrsVME)
-- [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq)
-- [Overflowing Bars](https://modrinth.com/project/XD7XOrAF)
-- [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)
-- [Status Effect Bars](https://modrinth.com/project/x02cBj9Y)
-- [TrashSlot](https://modrinth.com/project/vRYk0bv7)
-- [ToroHealth Continued](https://modrinth.com/project/28cjn3lz)
-- [Zoomify](https://modrinth.com/project/w7ThoJFB)
+-   [AdaptiveTooltips](https://modrinth.com/project/wFv8yCxM)
+
+    Version 1.21.1 uses [FixToolTip](https://modrinth.com/project/2RKFTmiB).
+
+-   [Advanced Loot Info](https://modrinth.com/project/PEPVViac)
+-   [Amecs](https://modrinth.com/project/rcLriA4v)
+-   [Apple Skin](https://modrinth.com/project/EsAfCjCV)
+-   [Attribute Fix](https://modrinth.com/project/lOOpEntO)
+-   [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)
+-   [Crafting Tweaks](https://modrinth.com/project/DMu0oBKf)
+-   [Durability Tooltips](https://modrinth.com/project/smUP7V3r)
+-   [Enchantment Descriptions](https://modrinth.com/project/UVtY3ZAC)
+-   [Extreme Sound Muffler](https://modrinth.com/project/5IIKsxiL)
+-   [Fix Keyboard on Linux](https://modrinth.com/project/siXFh9dn)
+-   [FlickerFix](https://modrinth.com/project/KSyWOxT5)
+-   [Inventory Essentials](https://modrinth.com/project/Boon8xwi)
+-   [Let Me Despawn](https://modrinth.com/project/vE2FN5qn)
+-   [Jade](https://modrinth.com/project/nvQzSEkH)
+-   [Just Enough Breeding](https://modrinth.com/project/9Pk89J3g)
+-   [Just Enough Items](https://modrinth.com/project/u6dRKJwZ)
+-   [Just Enough Professions](https://modrinth.com/project/kB56GtWA)
+-   [Just Enough Resources](https://modrinth.com/project/uEfK2CXF)
+-   [MacOS Input Fixes](https://modrinth.com/project/x9BrsVME)
+-   [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq)
+-   [Overflowing Bars](https://modrinth.com/project/XD7XOrAF)
+-   [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)
+-   [Status Effect Bars](https://modrinth.com/project/x02cBj9Y)
+-   [TrashSlot](https://modrinth.com/project/vRYk0bv7)
+-   [ToroHealth Continued](https://modrinth.com/project/28cjn3lz)
+-   [Zoomify](https://modrinth.com/project/w7ThoJFB)
 
 ## Utilities
 
 Useful utilities when playing or customizing Minecraft.
 
 -   [Auth Me](https://modrinth.com/project/yjgIrBjZ)
+-   [Better Advancements](https://modrinth.com/project/Q2OqKxDG)
 -   [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)
 -   [BetterF3](https://modrinth.com/project/8shC1gFX)
 -   [CalcMod](https://modrinth.com/project/XoHTb2Ap)
 -   [Controlify](https://modrinth.com/project/DOUdJVEm)
 -   [Controlling](https://modrinth.com/project/xv94TkTM)
 -   [Cubes Without Borders](https://modrinth.com/project/ETlrkaYF)
--   [Fabrishot](https://modrinth.com/project/3qsfQtE9)
+-   [ReFabrishot](https://modrinth.com/project/Foy1wcA4)
+
+    Versions 26.1 and older uses
+    [Fabrishot](https://modrinth.com/project/3qsfQtE9).
+
 -   [Lighty](https://modrinth.com/project/yjvKidNM)
 -   [NBT Autocomplete](https://modrinth.com/project/UR0ocuEt)
--   [Paginated Advancements & Custom Frames](https://modrinth.com/project/pJogNFap)
 -   [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)
 -   [RenderScale](https://modrinth.com/project/Va8PJBFX)
 -   [Spark](https://modrinth.com/project/l6YH9Als)
@@ -146,6 +158,10 @@ Mods that enhances or overhauls Minecraft visuals or audio. Basically mods that
 replace Optifine.
 
 -   [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)
+-   [Advancement Plaques](https://modrinth.com/project/9NM0dXub)
+
+    Requires [Iceberg](https://modrinth.com/project/5faXoLqX).[^1]
+
 -   [Animatica Refabricated](https://modrinth.com/project/xEyZuswh)
 
     Version 1.21.1 uses [Animatica](https://modrinth.com/project/PRN43VSY).
@@ -183,7 +199,7 @@ replace Optifine.
 -   [Polytone](https://modrinth.com/project/3qAYkBMB)
 -   [Puzzle](https://modrinth.com/project/3IuO68q1)
 
-    Versions 1.21.1 and 1.21.11 requires
+    Versions 1.21.11 and older requires
     [MidnightLib](https://modrinth.com/project/codAaoxh).[^1]
 
 -   [Skyboxify](https://modrinth.com/project/DWuwk8aA)
@@ -195,7 +211,7 @@ replace Optifine.
 
 Mods that are useful when playing with other people.
 
--   [Fast IP Ping](https://modrinth.com/project/9mtu0sUO)
+-   [Fast Server Pings](https://modrinth.com/project/5eVpQJSP)
 -   [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)
 -   [Chat Patches](https://modrinth.com/project/MOqt4Z5n)
 -   [CraftPresence](https://modrinth.com/project/DFqQfIBR)

@@ -1,0 +1,13 @@
+name = "ReFabrishot"
+filename = "fabrishot-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Foy1wcA4/versions/XVotBfaP/fabrishot-1.1.0.jar"
+hash-format = "sha512"
+hash = "146a562b114be077260fe5b4ffb1ffe4f49c8a575f76539b7ae617a85bb41e1180e4b286af2b42b827a447047ce6836bf346c132709edce7a3dc9831dd4fbf1b"
+
+[update]
+[update.modrinth]
+mod-id = "Foy1wcA4"
+version = "XVotBfaP"

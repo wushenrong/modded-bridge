@@ -7,9 +7,74 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [26.4] - Unreleased
+
+Fast track changes from Additive versions from 26.4.3 to 26.5.1. Adds support
+for Minecraft version 26.3 but expect missing mods and features:
+
+Missing mods on 26.3:
+
+-   Default Mods
+    - Amecs
+    - Better Mount HUD
+    - Cubes Without Borders
+    - Particle Core
+    - Polytone
+-   Optional Mods
+    - Bow Infinity Fix
+    - Emoji Type
+    - Jump Over Fences
+    - Squat Grow
+
+Missing mods 26.2 or later:
+
+-   Default Mods
+    - Tag Tooltips
+    - Tag Translations for JEI
+
+Missing mods on 26.1.2 or later:
+
+-   Default Mods
+    - Fix Keyboard on Linux
+    - FlickerFix
+    - Just Enough Breeding
+
+Missing mods on 1.21.11:
+
+-   Default Mods
+    - Adaptive Tooltips
+
+Missing mods on 1.21.1:
+
+-   Default Mods
+    - Cull Less Leaves
+
+### Added
+
+- Support for MC version 26.3
+- Advancement Plaques
+- Adaptive Tooltips for versions 26.1.2 to 26.3
+- ToolTipFix for version 1.21.1
+- Jump Over Fences for versions 26.1.2 to 26.2
+- Torohealth Continued for versions 26.2 to 26.3
+- Fast Surface for versions 26.2 to 26.3
+- Material Rule Compiler for versions 26.2 to 26.3
+
+### Changed
+
+- Update mods to their latest version.
+- Mark e4all as client side.
+- Swap Fast IP Ping for Fast Server Pings.
+- Swap back to Better Advancements from Paginated Advancements & Custom Frames.
+- Use ReFabrishot over FabriShot for versions 26.2 and 26.3
+
+### Removed
+
+- Disabled modernfix-mVMS dynamic resources for versions 1.21.11 or later.
+
 ## [26.3] - 2026-08-04
 
-Fast tracks changes from Additive versions 26.2 to 26.4.3. Adds support for
+Fast track changes from Additive versions 26.2 to 26.4.3. Adds support for
 Minecraft version 26.2 but expect missing mods and features.
 
 Missing mods on 26.2:

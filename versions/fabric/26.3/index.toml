@@ -1,0 +1,588 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+
+[[files]]
+file = "config/modpack_defaults/config/cape-provider/config.json"
+
+[[files]]
+file = "config/modpack_defaults/config/controlify.json"
+
+[[files]]
+file = "config/modpack_defaults/config/crash_assistant/config.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+
+[[files]]
+file = "config/modpack_defaults/config/fabrishot.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/fastquit.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/iris.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/lambdabettergrass.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/modmenu.json"
+
+[[files]]
+file = "config/modpack_defaults/config/pickupnotifications.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/puzzle.json"
+
+[[files]]
+file = "config/modpack_defaults/config/squatgrow-common.json5"
+
+[[files]]
+file = "config/modpack_defaults/config/vmp.properties"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advanced-loot-info.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/animaticarefabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cape-provider.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/e4all.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastserverpings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/im-fast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nanite-library.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nocroptrample.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/refabrishot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/renderscale.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/skyboxify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-continued.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zfastsurface.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zmaterial-rule-compiler.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+metafile = true

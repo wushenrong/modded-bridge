@@ -1,16 +1,16 @@
 name = "No Crop Trample"
-filename = "nocroptrample-1.0.0.jar"
+filename = "nocroptrample-fabric-1.6+backport.1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5XlZRhM5/versions/3gv1xSww/nocroptrample-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/5XlZRhM5/versions/PSmpm5U2/nocroptrample-fabric-1.6%2Bbackport.1.21.11.jar"
 hash-format = "sha512"
-hash = "0a27a2a0c10fce2cd8c6231b63426c39d0ec5d93448cda8edcf5fcc1b37bb8df17dacb933083fd7b499c04f842b48e8c4e04aa8597842984f5fad1fa86ffa0a0"
+hash = "162ed013b15522df922dca4a30260aebb37800d7e786812658d180dcf7d34520ba34cb71e57eb37246be5b2bc856b045c3f25ede74d80e0f1259added6e2806a"
 
 [update]
 [update.modrinth]
 mod-id = "5XlZRhM5"
-version = "3gv1xSww"
+version = "PSmpm5U2"
 
 [option]
 optional = true
