@@ -1,16 +1,16 @@
 name = "e4all"
-filename = "e4all-fabric-2.1.2.jar"
+filename = "e4all-fabric-2.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fB1gJLGX/versions/W5plSm5t/e4all-fabric-2.1.2.jar"
+url = "https://cdn.modrinth.com/data/fB1gJLGX/versions/WREwnZGP/e4all-fabric-2.2.0.jar"
 hash-format = "sha512"
-hash = "bf03c2817b035ea41967244aff06cbda19c3b50c5b5b6ceb13da793fd3b212a57a925a90f278c7531fe7bb2be32aa4e21e54d50e71515d285de146e98fb22105"
+hash = "9002edb04ea359ec64d883b60df1169bce8f883ccdab535af71b3051af23a5a305180d627694a063f5d94a9895f246a27bf196e385276007fb956ffaa521603d"
 
 [update]
 [update.modrinth]
 mod-id = "fB1gJLGX"
-version = "W5plSm5t"
+version = "WREwnZGP"
 
 [option]
 optional = true

@@ -7,7 +7,7 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 Versions before 26.1 adheres to a loose version of
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [26.4] - Unreleased
+## [26.4] - 2026-10-09
 
 Fast track changes from Additive versions from 26.4.3 to 26.5.1. Adds support
 for Minecraft version 26.3 but expect missing mods and features:
@@ -16,7 +16,6 @@ Missing mods on 26.3:
 
 -   Default Mods
     - Amecs
-    - Better Mount HUD
     - Cubes Without Borders
     - Particle Core
     - Polytone
@@ -42,7 +41,7 @@ Missing mods on 26.1.2 or later:
 Missing mods on 1.21.11:
 
 -   Default Mods
-    - Adaptive Tooltips
+    - Adaptive Tooltips or ToolTipsFix
 
 Missing mods on 1.21.1:
 
