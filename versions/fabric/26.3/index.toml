@@ -112,6 +112,10 @@ file = "mods/better-block-entities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 metafile = true
 
