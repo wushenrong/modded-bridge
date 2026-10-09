@@ -1,0 +1,13 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-fabric-26.2-26.2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/ig2gbg4K/inventoryessentials-fabric-26.2-26.2.0.6.jar"
+hash-format = "sha512"
+hash = "036b4dbfab2c6a0e03d7fd82262a061f9bd9a34c8df8130f42b27e77d266623fbaa6ff884d213e44ea75ba0be080463df848211cba2a936e543ba413a1ff59d3"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "ig2gbg4K"

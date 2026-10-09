@@ -1,0 +1,16 @@
+name = "Jump Over Fences"
+filename = "jumpoverfences-fabric-26.1.2-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4HeIHvIP/versions/lH6A2SEV/jumpoverfences-fabric-26.1.2-1.7.0.jar"
+hash-format = "sha512"
+hash = "02f6259617035c6a598d51498f6c45a327032a484ba545896752c736b2198d6bc02dcda1590df5260ebab96991d87b3fa111654e184a86c3e755651eef6d99d1"
+
+[update]
+[update.modrinth]
+mod-id = "4HeIHvIP"
+version = "lH6A2SEV"
+
+[option]
+optional = true

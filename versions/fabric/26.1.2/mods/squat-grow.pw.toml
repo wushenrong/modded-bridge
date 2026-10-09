@@ -1,0 +1,16 @@
+name = "Squat Grow"
+filename = "squatgrow-fabric-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5JMdB5V/versions/YHBdo1RX/squatgrow-fabric-26.1.2.2.jar"
+hash-format = "sha512"
+hash = "377a45c4e9c2a9987ec7a7094175c0aa5faf73d5ecef4bedafd33882a525ba8849c070bb4de1231b1c9ba5160430b5aec02eeb0a09ae13fa78a80e06690c1558"
+
+[update]
+[update.modrinth]
+mod-id = "b5JMdB5V"
+version = "YHBdo1RX"
+
+[option]
+optional = true

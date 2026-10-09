@@ -1,0 +1,16 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-1.21.11-fabric-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/mQqsSCBL/AdvancementPlaques-1.21.11-fabric-1.7.0.jar"
+hash-format = "sha512"
+hash = "a3e78e53d131d3cb3e828cd261f2eacca964eb12201aa53bb76f025de6f292b42c9d7ed9d006ea68027ecb4a7cdb54a37accf7a897b94dea4b25101088634c24"
+
+[update]
+[update.modrinth]
+mod-id = "9NM0dXub"
+version = "mQqsSCBL"
+
+[option]
+optional = true

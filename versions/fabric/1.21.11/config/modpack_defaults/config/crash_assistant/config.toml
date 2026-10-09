@@ -1,0 +1,21 @@
+[general]
+help_link = "https://github.com/wushenrong/modded-bridge/issues"
+formulation_type = "GITHUB"
+upload_to = "mclo.gs"
+
+[text]
+support_name = "Modded Bridge GitHub Repository"
+modpack_name = "Modded Bridge"
+
+[modpack_modlist]
+enabled = false
+
+[piracy]
+enabled = false
+delay = 0
+
+[greeting]
+shown_greeting = true
+
+[scripts]
+enabled = false

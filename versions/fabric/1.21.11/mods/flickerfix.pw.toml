@@ -1,0 +1,13 @@
+name = "FlickerFix"
+filename = "flickerfix-1.21.1-fabric-6.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KSyWOxT5/versions/kzzcQcuE/flickerfix-1.21.1-fabric-6.1.0.jar"
+hash-format = "sha512"
+hash = "c2c7889f212694424d7434299c00ad988bbeee688f31a43a0d891bdb85ad583d8f95393a4a2fc531c9c34c4e358a2c9bfd115a5bcd16dfcc09f4c97fa9fde8f1"
+
+[update]
+[update.modrinth]
+mod-id = "KSyWOxT5"
+version = "kzzcQcuE"

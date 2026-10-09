@@ -1,0 +1,16 @@
+name = "No Crop Trample"
+filename = "nocroptrample-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5XlZRhM5/versions/x3RifniL/nocroptrample-1.2.1.jar"
+hash-format = "sha512"
+hash = "ff72cbf88a8e62c82282453388bc6da168066e378665ad554341b0876f6bffbb883274702aabc21e8b1cc3510d6258d1c905ef5789f2a49578dcaf0105a930fb"
+
+[update]
+[update.modrinth]
+mod-id = "5XlZRhM5"
+version = "x3RifniL"
+
+[option]
+optional = true

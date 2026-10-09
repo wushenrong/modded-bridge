@@ -1,0 +1,13 @@
+name = "Tag Translations for JEI"
+filename = "tagtranslations-fabric-1.21.5-to-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dr1m8Rjk/versions/xsj5QiAr/tagtranslations-fabric-1.21.5-to-1.21.11.jar"
+hash-format = "sha512"
+hash = "f36aaa003c674d3d4bfba4334cb2b3af798906f25967fbf047fbbe067080c9617544e78d0ca27d86e2a0ae4fd33f842c5aedff765237e59228a8e123ea17531f"
+
+[update]
+[update.modrinth]
+mod-id = "dr1m8Rjk"
+version = "xsj5QiAr"

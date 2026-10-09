@@ -1,0 +1,16 @@
+name = "First-person Model"
+filename = "firstperson-fabric-2.7.3-mc26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/J7gA0RdJ/firstperson-fabric-2.7.3-mc26.1.jar"
+hash-format = "sha512"
+hash = "d7b48de61594e46fa8f463c9f0ca46dd965eaf303cdb6383a587346b2f8f260581e9df3dd51349d2d742f044438350a9564753ec243205d6ef5b979fee5d1ca1"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "J7gA0RdJ"
+
+[option]
+optional = true
