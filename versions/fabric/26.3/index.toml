@@ -112,6 +112,10 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bendable-cuboids.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 metafile = true
 
@@ -221,6 +225,10 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
 metafile = true
 
 [[files]]
@@ -437,6 +445,10 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
 metafile = true
 
 [[files]]

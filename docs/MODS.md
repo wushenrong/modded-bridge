@@ -176,6 +176,14 @@ replace Optifine.
 -   [Continuity](https://modrinth.com/project/1IjD5062)
 -   [Distant Horizons](https://modrinth.com/project/uCdwusMi)[^1]
 -   [Ears](https://modrinth.com/project/mfzaZK3Z)
+-   [EmoteCraft](https://modrinth.com/project/pZ2wrerK)[^1]
+
+    Requires
+    [Player Animation Library](https://modrinth.com/project/ha1mEyJS)[^1].
+    Optionally requires
+    [Bendable Cuboids](https://modrinth.com/project/OI3FlFon)[^1] for versions
+    1.21.11 or later.
+
 -   [Entity Model Features](https://modrinth.com/project/4I1XuqiY)
 
     Requires [Entity Texture Features](https://modrinth.com/project/BVzZfTc1).

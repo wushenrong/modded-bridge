@@ -243,6 +243,10 @@ file = "mods/emoji-type.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 metafile = true
 
@@ -480,6 +484,10 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
 metafile = true
 
 [[files]]

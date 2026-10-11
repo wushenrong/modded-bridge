@@ -9,8 +9,9 @@ Versions before 26.1 adheres to a loose version of
 
 ## [26.4] - 2026-10-09
 
-Fast track changes from Additive versions from 26.4.3 to 26.5.1. Adds support
-for Minecraft version 26.3 but expect missing mods and features:
+Fast track changes from Additive versions from 26.4.3 to 26.5.1. Re-adds back
+some mods that were removed. Adds support for Minecraft version 26.3 but expect
+missing mods and features:
 
 Missing mods on 26.3:
 
@@ -51,7 +52,9 @@ Missing mods on 1.21.1:
 - Support for MC version 26.3
 - Advancement Plaques
 - Advanced Core Info
+- EmoteCraft
 - Eunomia
+- Player Animation Library
 - Adaptive Tooltips for versions 26.1.2 to 26.3
 - ToolTipFix for version 1.21.1
 - Jump Over Fences for versions 26.1.2 to 26.2
@@ -175,7 +178,7 @@ optional. See the mod list for mods that were made optional.
 - Unnecessary options
 - Default keybinds
 - Better Compatibility Checker
-- Emote Craft
+- EmoteCraft
 - Gravestones
 - Jade Modded Entities
 - Load My F***ing Tags
