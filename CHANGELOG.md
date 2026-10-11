@@ -17,8 +17,6 @@ Missing mods on 26.3:
 -   Default Mods
     - Amecs
     - Cubes Without Borders
-    - Particle Core
-    - Polytone
 -   Optional Mods
     - Bow Infinity Fix
     - Emoji Type
@@ -52,6 +50,8 @@ Missing mods on 1.21.1:
 
 - Support for MC version 26.3
 - Advancement Plaques
+- Advanced Core Info
+- Eunomia
 - Adaptive Tooltips for versions 26.1.2 to 26.3
 - ToolTipFix for version 1.21.1
 - Jump Over Fences for versions 26.1.2 to 26.2

@@ -51,6 +51,7 @@ Mods that you expect from modded Minecraft.
     Version 1.21.1 uses [FixToolTip](https://modrinth.com/project/2RKFTmiB).
 
 -   [Advanced Loot Info](https://modrinth.com/project/PEPVViac)
+-   [Advanced Worldgen Info](https://modrinth.com/project/Ru0LLQdN)
 -   [Amecs](https://modrinth.com/project/rcLriA4v)
 -   [Apple Skin](https://modrinth.com/project/EsAfCjCV)
 -   [Attribute Fix](https://modrinth.com/project/lOOpEntO)
@@ -167,6 +168,9 @@ replace Optifine.
     Version 1.21.1 uses [Animatica](https://modrinth.com/project/PRN43VSY).
 
 -   [Armor Hider](https://modrinth.com/project/GgG2my3y)[^1]
+
+    Requires [Eunomia](https://modrinth.com/project/BvzQw4wL).[^1]
+
 -   [Armor Poser](https://modrinth.com/project/PFwYNrHb)[^1]
 -   [Cape Provider](https://modrinth.com/project/orXAsira)
 -   [Continuity](https://modrinth.com/project/1IjD5062)

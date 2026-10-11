@@ -60,7 +60,15 @@ file = "mods/adaptive-tooltips.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advanced-worldgen-info.pw.toml"
 metafile = true
 
 [[files]]
@@ -249,6 +257,10 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eunomia.pw.toml"
 metafile = true
 
 [[files]]
@@ -601,6 +613,10 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Advanced Worldgen Info (AWI)"
+filename = "AdvancedWorldgenInfo-fabric-26.3-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ru0LLQdN/versions/zEYiO3Pv/AdvancedWorldgenInfo-fabric-26.3-1.3.1.jar"
+hash-format = "sha512"
+hash = "100646f30f9dc56926f7263c6f2071dba5a889d81ecb50ab7cd05dc826da3a0869a6f65b0d94154dd4c23bfebcf561d19991364083df5d2f64f5a039e4ceaa8e"
+
+[update]
+[update.modrinth]
+mod-id = "Ru0LLQdN"
+version = "zEYiO3Pv"

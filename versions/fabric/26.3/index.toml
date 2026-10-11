@@ -60,7 +60,15 @@ file = "mods/adaptive-tooltips.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advanced-worldgen-info.pw.toml"
 metafile = true
 
 [[files]]
@@ -233,6 +241,10 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eunomia.pw.toml"
 metafile = true
 
 [[files]]
@@ -412,6 +424,10 @@ file = "mods/overflowing-bars.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/particular-reforged.pw.toml"
 metafile = true
 
@@ -421,6 +437,10 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
 metafile = true
 
 [[files]]
