@@ -78,8 +78,18 @@ hash = "5f5a15611ac0bc7a6012687e1cd4a9e1b711039fed91b7e6aa4274b48c8a5845"
 metafile = true
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+hash = "22b62b03530e3b5c077a798503246c037e5c9c2659ef83e81bbc84499cb54d07"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "5bb132e3cea5ce6db7638aab4876aaaf37b210f5e2678b6afe838e79d341ae62"
+metafile = true
+
+[[files]]
+file = "mods/advanced-worldgen-info.pw.toml"
+hash = "2369cae8a9b0f5f55436e85383f4e0fa561f23eec6fbd7587c5540b0e5c6b621"
 metafile = true
 
 [[files]]
@@ -298,6 +308,11 @@ hash = "213b106ab178aa8f662e374340e39a78f745e79d3a08083cc86cf71b4778dc1e"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "93caa3e05f1f08dce7c3ab84d8aa18d01e75f4b1c0eb2ddd393a9b5594b1d9f8"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "ea42faf9e2aa08a3b6b7722299e9c3269fd6d7232fcfb58c1818df62bf94f224"
 metafile = true
@@ -320,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/esf.pw.toml"
 hash = "71e4daffa82ac92309f0d14c58b72cc89348e16a34e936ee04d2870fad3d13dc"
+metafile = true
+
+[[files]]
+file = "mods/eunomia.pw.toml"
+hash = "73e8e6a74caeaba7d1f55eea63d9b9ce9e6919bf6a874121907f38aa0e38648c"
 metafile = true
 
 [[files]]
@@ -593,8 +613,13 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "8ea4bed1338a1ebbcb1b3273d1a15ca4dae97e10ce44562529c06190fdd65a8b"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
-hash = "871ee80844f28b948b7d6a22ff7d8242490e65e5a130dfe09e85c21eba739f48"
+hash = "ffe83cd10f9f422992e308e84f1d4385e29e7b1bb29334e3851d14f5ff5dff23"
 metafile = true
 
 [[files]]
@@ -609,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6572b1251b4956e72d8570a48d370a09eeb531c4dcaf704d409b8388cb05dc76"
+hash = "f37c4404b2f42ab88bb7a9fec08e2e49cf79fb1674308c624a01d7175d7c81e9"
 metafile = true
 
 [[files]]
@@ -783,6 +808,11 @@ hash = "7c5fee80d2de4931cf87ee3e4258c40f57234f37ba6460c7ce5baeb0b0921c39"
 metafile = true
 
 [[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8f353eed81effd44cc2de464f33e3c772129b15389d2427167c174784400bd23"
+metafile = true
+
+[[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "735995fbc0515fd4bf94fa9a6060ada43620827cfaa9c6dae5d74d7bacc6259e"
 metafile = true
@@ -799,5 +829,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3f2875843763208898198269e5ec4c701ba126f192a0ae7fd95b6a8b1113126d"
+hash = "3c221cbd37d683b53d76ded2d5379cd180005e9932db7965879bad468e4d22bf"
 metafile = true

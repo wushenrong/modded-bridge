@@ -1,0 +1,16 @@
+name = "Eunomia"
+filename = "eunomia-fabric-0.3.14+mc-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BvzQw4wL/versions/ddaTv326/eunomia-fabric-0.3.14%2Bmc-1.21.11.jar"
+hash-format = "sha512"
+hash = "acb064e99c4be0b5b32b91cb35c29348835c8eec65cc3c60f410bc459c9fed7f7462b7880a8fb4dc16b6ed51f33d1ffc7caea647d82476ea4a9cc1bedbe69619"
+
+[update]
+[update.modrinth]
+mod-id = "BvzQw4wL"
+version = "ddaTv326"
+
+[option]
+optional = true
