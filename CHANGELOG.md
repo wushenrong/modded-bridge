@@ -10,14 +10,15 @@ Versions before 26.1 adheres to a loose version of
 ## [26.4] - 2026-10-09
 
 Fast track changes from Additive versions from 26.4.3 to 26.5.1. Re-adds back
-some mods that were removed. Adds support for Minecraft version 26.3 but expect
-missing mods and features:
+some mods that were removed or swapped. Adds support for Minecraft version 26.3
+but expect missing mods and features:
 
 Missing mods on 26.3:
 
 -   Default Mods
     - Amecs
     - Cubes Without Borders
+    - ReFabrishot
 -   Optional Mods
     - Bow Infinity Fix
     - Emoji Type
@@ -68,7 +69,7 @@ Missing mods on 1.21.1:
 - Mark e4all as client side.
 - Swap Fast IP Ping for Fast Server Pings.
 - Swap back to Better Advancements from Paginated Advancements & Custom Frames.
-- Use ReFabrishot over FabriShot for versions 26.2 and 26.3
+- Use ReFabrishot over FabriShot for versions 26.2
 
 ### Removed
 

@@ -476,10 +476,6 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/refabrishot.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/renderscale.pw.toml"
 metafile = true
 
